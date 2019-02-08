@@ -1,11 +1,9 @@
 # py-stock-crawler
 A multithreading web crawler that retrieves stock data from yahoo finance.
 
-
-
 ## Usage 
 
-Extremely easy to install, no extra C or binary libs required! 
+Extremely easy to install !!! No extra C or binary libs required !!!
 
 Only python 3 supported.
 
@@ -73,7 +71,7 @@ print(st.get())
 
 This is an example of creating a single small crawler without multi-thread.
 
-#### rookie_stock_crawler.utils
+#### rookie_stock_crawler.utils[[Source]](https://github.com/nichujie/rookie-stock-crawler/blob/master/rookie_stock_crawler/utils.py)
 
 As we keep on breaking down the modules, we can import the methods whick **Stock** used to retrieve data. They works almost like a pure function(as long as your home router didn't explode).
 
