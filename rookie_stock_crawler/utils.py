@@ -109,7 +109,7 @@ def get_profile(content):
     return sector, exchange
 
 
-def get_financial(symbol, lf):
+def get_financial(symbol, lf=datetime.date(1970, 1, 1)):
     latest_financial = lf
     result = {}
     url = 'https://finance.yahoo.com/quote/{0}/financials?p={0}'.format(symbol)
@@ -161,7 +161,7 @@ def get_financial(symbol, lf):
     return data, latest_financial
 
 
-def get_statistic(symbol, ls):
+def get_statistic(symbol, ls=datetime.date(1970, 1, 1)):
     latest_statistic = ls
     url = 'https://finance.yahoo.com/quote/{0}/key-statistics?p={0}'.format(symbol)
     statistics = 'defaultKeyStatistics'
@@ -176,7 +176,7 @@ def get_statistic(symbol, ls):
         return None, datetime.datetime.utcnow().date()
 
 
-def get_historical(stock, lh, duration=9):
+def get_historical(stock, lh=datetime.date(1970, 1, 1), duration=9):
     latest_historical = lh
     period2 = int(time.time())
     period1 = period2 - 86400 * get_duration(duration)
