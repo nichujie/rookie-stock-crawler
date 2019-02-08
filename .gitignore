@@ -1,2 +1,10 @@
 
 \.idea/
+
+rookie_stock_crawler\.egg-info/
+
+rookie_stock_crawler_nichujie\.egg-info/
+
+*.pyc
+
+build/lib/

@@ -89,7 +89,3 @@ class Stock:
             'sector': self.sector,
             'data': self.data
         }
-
-
-if __name__ == '__main__':
-    print(datetime.date(1970, 1, 1))
