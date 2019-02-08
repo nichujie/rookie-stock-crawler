@@ -8,7 +8,6 @@ import time
 from multiprocessing import Manager
 
 from .process import StockProcess, RF_Process
-from .stock import Stock
 
 
 class StockCrawler:

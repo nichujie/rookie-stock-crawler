@@ -18,4 +18,5 @@ setuptools.setup(
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
+    install_requires=['requests', 'beautifulsoup4', 'psycopg2', 'psycopg2-binary'],
 )
