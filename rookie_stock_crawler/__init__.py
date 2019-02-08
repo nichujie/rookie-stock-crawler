@@ -1,4 +1,4 @@
-name = 'rf_toolchain'
+name = 'rookie-stock-crawler'
 __all__ = ['StockCrawler', 'RF_Crawler']
 
 import json
