@@ -1,1 +1,3160 @@
-{"symbol": "AAPL", "exchange": "NMS", "sector": "Technology", "data": {"financial": [{"date": "2018-09-29", "financial": {"IS": {"researchDevelopment": {"raw": 14236000000, "fmt": "14.24B", "longFmt": "14,236,000,000"}, "effectOfAccountingCharges": {}, "incomeBeforeTax": {"raw": 72903000000, "fmt": "72.9B", "longFmt": "72,903,000,000"}, "minorityInterest": {}, "netIncome": {"raw": 59531000000, "fmt": "59.53B", "longFmt": "59,531,000,000"}, "sellingGeneralAdministrative": {"raw": 16705000000, "fmt": "16.7B", "longFmt": "16,705,000,000"}, "grossProfit": {"raw": 101839000000, "fmt": "101.84B", "longFmt": "101,839,000,000"}, "ebit": {"raw": 70898000000, "fmt": "70.9B", "longFmt": "70,898,000,000"}, "endDate": {"raw": 1538179200, "fmt": "2018-09-29"}, "operatingIncome": {"raw": 70898000000, "fmt": "70.9B", "longFmt": "70,898,000,000"}, "otherOperatingExpenses": {}, "interestExpense": {"raw": -3240000000, "fmt": "-3.24B", "longFmt": "-3,240,000,000"}, "extraordinaryItems": {}, "nonRecurring": {}, "otherItems": {}, "incomeTaxExpense": {"raw": 13372000000, "fmt": "13.37B", "longFmt": "13,372,000,000"}, "totalRevenue": {"raw": 265595000000, "fmt": "265.6B", "longFmt": "265,595,000,000"}, "totalOperatingExpenses": {"raw": 194697000000, "fmt": "194.7B", "longFmt": "194,697,000,000"}, "costOfRevenue": {"raw": 163756000000, "fmt": "163.76B", "longFmt": "163,756,000,000"}, "totalOtherIncomeExpenseNet": {"raw": 2005000000, "fmt": "2B", "longFmt": "2,005,000,000"}, "maxAge": 1, "discontinuedOperations": {}, "netIncomeFromContinuingOps": {"raw": 59531000000, "fmt": "59.53B", "longFmt": "59,531,000,000"}, "netIncomeApplicableToCommonShares": {"raw": 59531000000, "fmt": "59.53B", "longFmt": "59,531,000,000"}}, "BS": {"totalLiab": {"raw": 258578000000, "fmt": "258.58B", "longFmt": "258,578,000,000"}, "totalStockholderEquity": {"raw": 107147000000, "fmt": "107.15B", "longFmt": "107,147,000,000"}, "otherCurrentLiab": {"raw": 40230000000, "fmt": "40.23B", "longFmt": "40,230,000,000"}, "totalAssets": {"raw": 365725000000, "fmt": "365.73B", "longFmt": "365,725,000,000"}, "endDate": {"raw": 1538179200, "fmt": "2018-09-29"}, "commonStock": {"raw": 40201000000, "fmt": "40.2B", "longFmt": "40,201,000,000"}, "otherCurrentAssets": {"raw": 12087000000, "fmt": "12.09B", "longFmt": "12,087,000,000"}, "retainedEarnings": {"raw": 70400000000, "fmt": "70.4B", "longFmt": "70,400,000,000"}, "otherLiab": {"raw": 47977000000, "fmt": "47.98B", "longFmt": "47,977,000,000"}, "treasuryStock": {"raw": -3454000000, "fmt": "-3.45B", "longFmt": "-3,454,000,000"}, "otherAssets": {"raw": 22283000000, "fmt": "22.28B", "longFmt": "22,283,000,000"}, "cash": {"raw": 25913000000, "fmt": "25.91B", "longFmt": "25,913,000,000"}, "totalCurrentLiabilities": {"raw": 116866000000, "fmt": "116.87B", "longFmt": "116,866,000,000"}, "shortLongTermDebt": {"raw": 8784000000, "fmt": "8.78B", "longFmt": "8,784,000,000"}, "otherStockholderEquity": {"raw": -3454000000, "fmt": "-3.45B", "longFmt": "-3,454,000,000"}, "propertyPlantEquipment": {"raw": 41304000000, "fmt": "41.3B", "longFmt": "41,304,000,000"}, "totalCurrentAssets": {"raw": 131339000000, "fmt": "131.34B", "longFmt": "131,339,000,000"}, "longTermInvestments": {"raw": 170799000000, "fmt": "170.8B", "longFmt": "170,799,000,000"}, "netTangibleAssets": {"raw": 107147000000, "fmt": "107.15B", "longFmt": "107,147,000,000"}, "shortTermInvestments": {"raw": 40388000000, "fmt": "40.39B", "longFmt": "40,388,000,000"}, "netReceivables": {"raw": 48995000000, "fmt": "48.99B", "longFmt": "48,995,000,000"}, "maxAge": 1, "longTermDebt": {"raw": 93735000000, "fmt": "93.73B", "longFmt": "93,735,000,000"}, "inventory": {"raw": 3956000000, "fmt": "3.96B", "longFmt": "3,956,000,000"}, "accountsPayable": {"raw": 55888000000, "fmt": "55.89B", "longFmt": "55,888,000,000"}}, "CF": {"investments": {"raw": 30845000000, "fmt": "30.84B", "longFmt": "30,845,000,000"}, "changeToLiabilities": {"raw": 9131000000, "fmt": "9.13B", "longFmt": "9,131,000,000"}, "totalCashflowsFromInvestingActivities": {"raw": 16066000000, "fmt": "16.07B", "longFmt": "16,066,000,000"}, "netBorrowings": {"raw": 432000000, "fmt": "432M", "longFmt": "432,000,000"}, "totalCashFromFinancingActivities": {"raw": -87876000000, "fmt": "-87.88B", "longFmt": "-87,876,000,000"}, "changeToOperatingActivities": {"raw": 30057000000, "fmt": "30.06B", "longFmt": "30,057,000,000"}, "issuanceOfStock": {"raw": 669000000, "fmt": "669M", "longFmt": "669,000,000"}, "netIncome": {"raw": 59531000000, "fmt": "59.53B", "longFmt": "59,531,000,000"}, "changeInCash": {"raw": 5624000000, "fmt": "5.62B", "longFmt": "5,624,000,000"}, "endDate": {"raw": 1538179200, "fmt": "2018-09-29"}, "repurchaseOfStock": {"raw": -75265000000, "fmt": "-75.27B", "longFmt": "-75,265,000,000"}, "totalCashFromOperatingActivities": {"raw": 77434000000, "fmt": "77.43B", "longFmt": "77,434,000,000"}, "depreciation": {"raw": 10903000000, "fmt": "10.9B", "longFmt": "10,903,000,000"}, "otherCashflowsFromInvestingActivities": {"raw": -745000000, "fmt": "-745M", "longFmt": "-745,000,000"}, "dividendsPaid": {"raw": -13712000000, "fmt": "-13.71B", "longFmt": "-13,712,000,000"}, "changeToInventory": {"raw": 828000000, "fmt": "828M", "longFmt": "828,000,000"}, "changeToAccountReceivables": {"raw": -5322000000, "fmt": "-5.32B", "longFmt": "-5,322,000,000"}, "maxAge": 1, "changeToNetincome": {"raw": -27694000000, "fmt": "-27.69B", "longFmt": "-27,694,000,000"}, "capitalExpenditures": {"raw": -13313000000, "fmt": "-13.31B", "longFmt": "-13,313,000,000"}}}}, {"date": "2017-09-30", "financial": {"IS": {"researchDevelopment": {"raw": 11581000000, "fmt": "11.58B", "longFmt": "11,581,000,000"}, "effectOfAccountingCharges": {}, "incomeBeforeTax": {"raw": 64089000000, "fmt": "64.09B", "longFmt": "64,089,000,000"}, "minorityInterest": {}, "netIncome": {"raw": 48351000000, "fmt": "48.35B", "longFmt": "48,351,000,000"}, "sellingGeneralAdministrative": {"raw": 15261000000, "fmt": "15.26B", "longFmt": "15,261,000,000"}, "grossProfit": {"raw": 88186000000, "fmt": "88.19B", "longFmt": "88,186,000,000"}, "ebit": {"raw": 61344000000, "fmt": "61.34B", "longFmt": "61,344,000,000"}, "endDate": {"raw": 1506729600, "fmt": "2017-09-30"}, "operatingIncome": {"raw": 61344000000, "fmt": "61.34B", "longFmt": "61,344,000,000"}, "otherOperatingExpenses": {}, "interestExpense": {"raw": -2323000000, "fmt": "-2.32B", "longFmt": "-2,323,000,000"}, "extraordinaryItems": {}, "nonRecurring": {}, "otherItems": {}, "incomeTaxExpense": {"raw": 15738000000, "fmt": "15.74B", "longFmt": "15,738,000,000"}, "totalRevenue": {"raw": 229234000000, "fmt": "229.23B", "longFmt": "229,234,000,000"}, "totalOperatingExpenses": {"raw": 167890000000, "fmt": "167.89B", "longFmt": "167,890,000,000"}, "costOfRevenue": {"raw": 141048000000, "fmt": "141.05B", "longFmt": "141,048,000,000"}, "totalOtherIncomeExpenseNet": {"raw": 2745000000, "fmt": "2.75B", "longFmt": "2,745,000,000"}, "maxAge": 1, "discontinuedOperations": {}, "netIncomeFromContinuingOps": {"raw": 48351000000, "fmt": "48.35B", "longFmt": "48,351,000,000"}, "netIncomeApplicableToCommonShares": {"raw": 48351000000, "fmt": "48.35B", "longFmt": "48,351,000,000"}}, "BS": {"totalLiab": {"raw": 241272000000, "fmt": "241.27B", "longFmt": "241,272,000,000"}, "totalStockholderEquity": {"raw": 134047000000, "fmt": "134.05B", "longFmt": "134,047,000,000"}, "otherCurrentLiab": {"raw": 38099000000, "fmt": "38.1B", "longFmt": "38,099,000,000"}, "totalAssets": {"raw": 375319000000, "fmt": "375.32B", "longFmt": "375,319,000,000"}, "endDate": {"raw": 1506729600, "fmt": "2017-09-30"}, "commonStock": {"raw": 35867000000, "fmt": "35.87B", "longFmt": "35,867,000,000"}, "otherCurrentAssets": {"raw": 13936000000, "fmt": "13.94B", "longFmt": "13,936,000,000"}, "retainedEarnings": {"raw": 98330000000, "fmt": "98.33B", "longFmt": "98,330,000,000"}, "otherLiab": {"raw": 43251000000, "fmt": "43.25B", "longFmt": "43,251,000,000"}, "treasuryStock": {"raw": -150000000, "fmt": "-150M", "longFmt": "-150,000,000"}, "otherAssets": {"raw": 18177000000, "fmt": "18.18B", "longFmt": "18,177,000,000"}, "cash": {"raw": 20289000000, "fmt": "20.29B", "longFmt": "20,289,000,000"}, "totalCurrentLiabilities": {"raw": 100814000000, "fmt": "100.81B", "longFmt": "100,814,000,000"}, "shortLongTermDebt": {"raw": 6496000000, "fmt": "6.5B", "longFmt": "6,496,000,000"}, "otherStockholderEquity": {"raw": -150000000, "fmt": "-150M", "longFmt": "-150,000,000"}, "propertyPlantEquipment": {"raw": 33783000000, "fmt": "33.78B", "longFmt": "33,783,000,000"}, "totalCurrentAssets": {"raw": 128645000000, "fmt": "128.65B", "longFmt": "128,645,000,000"}, "longTermInvestments": {"raw": 194714000000, "fmt": "194.71B", "longFmt": "194,714,000,000"}, "netTangibleAssets": {"raw": 134047000000, "fmt": "134.05B", "longFmt": "134,047,000,000"}, "shortTermInvestments": {"raw": 53892000000, "fmt": "53.89B", "longFmt": "53,892,000,000"}, "netReceivables": {"raw": 35673000000, "fmt": "35.67B", "longFmt": "35,673,000,000"}, "maxAge": 1, "longTermDebt": {"raw": 97207000000, "fmt": "97.21B", "longFmt": "97,207,000,000"}, "inventory": {"raw": 4855000000, "fmt": "4.86B", "longFmt": "4,855,000,000"}, "accountsPayable": {"raw": 44242000000, "fmt": "44.24B", "longFmt": "44,242,000,000"}}, "CF": {"investments": {"raw": -33542000000, "fmt": "-33.54B", "longFmt": "-33,542,000,000"}, "changeToLiabilities": {"raw": 8340000000, "fmt": "8.34B", "longFmt": "8,340,000,000"}, "totalCashflowsFromInvestingActivities": {"raw": -46446000000, "fmt": "-46.45B", "longFmt": "-46,446,000,000"}, "netBorrowings": {"raw": 29014000000, "fmt": "29.01B", "longFmt": "29,014,000,000"}, "totalCashFromFinancingActivities": {"raw": -17974000000, "fmt": "-17.97B", "longFmt": "-17,974,000,000"}, "changeToOperatingActivities": {"raw": -8447000000, "fmt": "-8.45B", "longFmt": "-8,447,000,000"}, "issuanceOfStock": {"raw": 555000000, "fmt": "555M", "longFmt": "555,000,000"}, "netIncome": {"raw": 48351000000, "fmt": "48.35B", "longFmt": "48,351,000,000"}, "changeInCash": {"raw": -195000000, "fmt": "-195M", "longFmt": "-195,000,000"}, "endDate": {"raw": 1506729600, "fmt": "2017-09-30"}, "repurchaseOfStock": {"raw": -34774000000, "fmt": "-34.77B", "longFmt": "-34,774,000,000"}, "totalCashFromOperatingActivities": {"raw": 64225000000, "fmt": "64.22B", "longFmt": "64,225,000,000"}, "depreciation": {"raw": 10157000000, "fmt": "10.16B", "longFmt": "10,157,000,000"}, "otherCashflowsFromInvestingActivities": {"raw": -124000000, "fmt": "-124M", "longFmt": "-124,000,000"}, "dividendsPaid": {"raw": -12769000000, "fmt": "-12.77B", "longFmt": "-12,769,000,000"}, "changeToInventory": {"raw": -2723000000, "fmt": "-2.72B", "longFmt": "-2,723,000,000"}, "changeToAccountReceivables": {"raw": -2093000000, "fmt": "-2.09B", "longFmt": "-2,093,000,000"}, "maxAge": 1, "changeToNetincome": {"raw": 10640000000, "fmt": "10.64B", "longFmt": "10,640,000,000"}, "capitalExpenditures": {"raw": -12451000000, "fmt": "-12.45B", "longFmt": "-12,451,000,000"}}}}, {"date": "2016-09-24", "financial": {"IS": {"researchDevelopment": {"raw": 10045000000, "fmt": "10.04B", "longFmt": "10,045,000,000"}, "effectOfAccountingCharges": {}, "incomeBeforeTax": {"raw": 61372000000, "fmt": "61.37B", "longFmt": "61,372,000,000"}, "minorityInterest": {}, "netIncome": {"raw": 45687000000, "fmt": "45.69B", "longFmt": "45,687,000,000"}, "sellingGeneralAdministrative": {"raw": 14194000000, "fmt": "14.19B", "longFmt": "14,194,000,000"}, "grossProfit": {"raw": 84263000000, "fmt": "84.26B", "longFmt": "84,263,000,000"}, "ebit": {"raw": 60024000000, "fmt": "60.02B", "longFmt": "60,024,000,000"}, "endDate": {"raw": 1474675200, "fmt": "2016-09-24"}, "operatingIncome": {"raw": 60024000000, "fmt": "60.02B", "longFmt": "60,024,000,000"}, "otherOperatingExpenses": {}, "interestExpense": {"raw": -1456000000, "fmt": "-1.46B", "longFmt": "-1,456,000,000"}, "extraordinaryItems": {}, "nonRecurring": {}, "otherItems": {}, "incomeTaxExpense": {"raw": 15685000000, "fmt": "15.69B", "longFmt": "15,685,000,000"}, "totalRevenue": {"raw": 215639000000, "fmt": "215.64B", "longFmt": "215,639,000,000"}, "totalOperatingExpenses": {"raw": 155615000000, "fmt": "155.62B", "longFmt": "155,615,000,000"}, "costOfRevenue": {"raw": 131376000000, "fmt": "131.38B", "longFmt": "131,376,000,000"}, "totalOtherIncomeExpenseNet": {"raw": 1348000000, "fmt": "1.35B", "longFmt": "1,348,000,000"}, "maxAge": 1, "discontinuedOperations": {}, "netIncomeFromContinuingOps": {"raw": 45687000000, "fmt": "45.69B", "longFmt": "45,687,000,000"}, "netIncomeApplicableToCommonShares": {"raw": 45687000000, "fmt": "45.69B", "longFmt": "45,687,000,000"}}, "BS": {"intangibleAssets": {"raw": 3206000000, "fmt": "3.21B", "longFmt": "3,206,000,000"}, "totalLiab": {"raw": 193437000000, "fmt": "193.44B", "longFmt": "193,437,000,000"}, "totalStockholderEquity": {"raw": 128249000000, "fmt": "128.25B", "longFmt": "128,249,000,000"}, "otherCurrentLiab": {"raw": 8243000000, "fmt": "8.24B", "longFmt": "8,243,000,000"}, "totalAssets": {"raw": 321686000000, "fmt": "321.69B", "longFmt": "321,686,000,000"}, "endDate": {"raw": 1474675200, "fmt": "2016-09-24"}, "commonStock": {"raw": 31251000000, "fmt": "31.25B", "longFmt": "31,251,000,000"}, "otherCurrentAssets": {"raw": 8283000000, "fmt": "8.28B", "longFmt": "8,283,000,000"}, "retainedEarnings": {"raw": 96364000000, "fmt": "96.36B", "longFmt": "96,364,000,000"}, "otherLiab": {"raw": 39004000000, "fmt": "39B", "longFmt": "39,004,000,000"}, "goodWill": {"raw": 5414000000, "fmt": "5.41B", "longFmt": "5,414,000,000"}, "treasuryStock": {"raw": 634000000, "fmt": "634M", "longFmt": "634,000,000"}, "otherAssets": {"raw": 8757000000, "fmt": "8.76B", "longFmt": "8,757,000,000"}, "cash": {"raw": 20484000000, "fmt": "20.48B", "longFmt": "20,484,000,000"}, "totalCurrentLiabilities": {"raw": 79006000000, "fmt": "79.01B", "longFmt": "79,006,000,000"}, "shortLongTermDebt": {"raw": 3500000000, "fmt": "3.5B", "longFmt": "3,500,000,000"}, "otherStockholderEquity": {"raw": 634000000, "fmt": "634M", "longFmt": "634,000,000"}, "propertyPlantEquipment": {"raw": 27010000000, "fmt": "27.01B", "longFmt": "27,010,000,000"}, "totalCurrentAssets": {"raw": 106869000000, "fmt": "106.87B", "longFmt": "106,869,000,000"}, "longTermInvestments": {"raw": 170430000000, "fmt": "170.43B", "longFmt": "170,430,000,000"}, "netTangibleAssets": {"raw": 119629000000, "fmt": "119.63B", "longFmt": "119,629,000,000"}, "shortTermInvestments": {"raw": 46671000000, "fmt": "46.67B", "longFmt": "46,671,000,000"}, "netReceivables": {"raw": 29299000000, "fmt": "29.3B", "longFmt": "29,299,000,000"}, "maxAge": 1, "longTermDebt": {"raw": 75427000000, "fmt": "75.43B", "longFmt": "75,427,000,000"}, "inventory": {"raw": 2132000000, "fmt": "2.13B", "longFmt": "2,132,000,000"}, "accountsPayable": {"raw": 37294000000, "fmt": "37.29B", "longFmt": "37,294,000,000"}}, "CF": {"investments": {"raw": -32022000000, "fmt": "-32.02B", "longFmt": "-32,022,000,000"}, "changeToLiabilities": {"raw": 563000000, "fmt": "563M", "longFmt": "563,000,000"}, "totalCashflowsFromInvestingActivities": {"raw": -45977000000, "fmt": "-45.98B", "longFmt": "-45,977,000,000"}, "netBorrowings": {"raw": 22057000000, "fmt": "22.06B", "longFmt": "22,057,000,000"}, "totalCashFromFinancingActivities": {"raw": -20890000000, "fmt": "-20.89B", "longFmt": "-20,890,000,000"}, "changeToOperatingActivities": {"raw": -902000000, "fmt": "-902M", "longFmt": "-902,000,000"}, "issuanceOfStock": {"raw": 495000000, "fmt": "495M", "longFmt": "495,000,000"}, "netIncome": {"raw": 45687000000, "fmt": "45.69B", "longFmt": "45,687,000,000"}, "changeInCash": {"raw": -636000000, "fmt": "-636M", "longFmt": "-636,000,000"}, "endDate": {"raw": 1474675200, "fmt": "2016-09-24"}, "repurchaseOfStock": {"raw": -31292000000, "fmt": "-31.29B", "longFmt": "-31,292,000,000"}, "totalCashFromOperatingActivities": {"raw": 66231000000, "fmt": "66.23B", "longFmt": "66,231,000,000"}, "depreciation": {"raw": 10505000000, "fmt": "10.51B", "longFmt": "10,505,000,000"}, "otherCashflowsFromInvestingActivities": {"raw": -924000000, "fmt": "-924M", "longFmt": "-924,000,000"}, "dividendsPaid": {"raw": -12150000000, "fmt": "-12.15B", "longFmt": "-12,150,000,000"}, "changeToInventory": {"raw": 217000000, "fmt": "217M", "longFmt": "217,000,000"}, "changeToAccountReceivables": {"raw": 527000000, "fmt": "527M", "longFmt": "527,000,000"}, "maxAge": 1, "changeToNetincome": {"raw": 9634000000, "fmt": "9.63B", "longFmt": "9,634,000,000"}, "capitalExpenditures": {"raw": -12734000000, "fmt": "-12.73B", "longFmt": "-12,734,000,000"}}}}, {"date": "2015-09-26", "financial": {"IS": {"researchDevelopment": {"raw": 8067000000, "fmt": "8.07B", "longFmt": "8,067,000,000"}, "effectOfAccountingCharges": {}, "incomeBeforeTax": {"raw": 72515000000, "fmt": "72.52B", "longFmt": "72,515,000,000"}, "minorityInterest": {}, "netIncome": {"raw": 53394000000, "fmt": "53.39B", "longFmt": "53,394,000,000"}, "sellingGeneralAdministrative": {"raw": 14329000000, "fmt": "14.33B", "longFmt": "14,329,000,000"}, "grossProfit": {"raw": 93626000000, "fmt": "93.63B", "longFmt": "93,626,000,000"}, "ebit": {"raw": 71230000000, "fmt": "71.23B", "longFmt": "71,230,000,000"}, "endDate": {"raw": 1443225600, "fmt": "2015-09-26"}, "operatingIncome": {"raw": 71230000000, "fmt": "71.23B", "longFmt": "71,230,000,000"}, "otherOperatingExpenses": {}, "interestExpense": {"raw": -733000000, "fmt": "-733M", "longFmt": "-733,000,000"}, "extraordinaryItems": {}, "nonRecurring": {}, "otherItems": {}, "incomeTaxExpense": {"raw": 19121000000, "fmt": "19.12B", "longFmt": "19,121,000,000"}, "totalRevenue": {"raw": 233715000000, "fmt": "233.72B", "longFmt": "233,715,000,000"}, "totalOperatingExpenses": {"raw": 162485000000, "fmt": "162.49B", "longFmt": "162,485,000,000"}, "costOfRevenue": {"raw": 140089000000, "fmt": "140.09B", "longFmt": "140,089,000,000"}, "totalOtherIncomeExpenseNet": {"raw": 1285000000, "fmt": "1.28B", "longFmt": "1,285,000,000"}, "maxAge": 1, "discontinuedOperations": {}, "netIncomeFromContinuingOps": {"raw": 53394000000, "fmt": "53.39B", "longFmt": "53,394,000,000"}, "netIncomeApplicableToCommonShares": {"raw": 53394000000, "fmt": "53.39B", "longFmt": "53,394,000,000"}}, "BS": {"intangibleAssets": {"raw": 3893000000, "fmt": "3.89B", "longFmt": "3,893,000,000"}, "totalLiab": {"raw": 170990000000, "fmt": "170.99B", "longFmt": "170,990,000,000"}, "totalStockholderEquity": {"raw": 119355000000, "fmt": "119.36B", "longFmt": "119,355,000,000"}, "otherCurrentLiab": {"raw": 10939000000, "fmt": "10.94B", "longFmt": "10,939,000,000"}, "totalAssets": {"raw": 290345000000, "fmt": "290.35B", "longFmt": "290,345,000,000"}, "endDate": {"raw": 1443225600, "fmt": "2015-09-26"}, "commonStock": {"raw": 27416000000, "fmt": "27.42B", "longFmt": "27,416,000,000"}, "otherCurrentAssets": {"raw": 14691000000, "fmt": "14.69B", "longFmt": "14,691,000,000"}, "retainedEarnings": {"raw": 92284000000, "fmt": "92.28B", "longFmt": "92,284,000,000"}, "otherLiab": {"raw": 37051000000, "fmt": "37.05B", "longFmt": "37,051,000,000"}, "goodWill": {"raw": 5116000000, "fmt": "5.12B", "longFmt": "5,116,000,000"}, "treasuryStock": {"raw": -345000000, "fmt": "-345M", "longFmt": "-345,000,000"}, "otherAssets": {"raw": 5422000000, "fmt": "5.42B", "longFmt": "5,422,000,000"}, "cash": {"raw": 21120000000, "fmt": "21.12B", "longFmt": "21,120,000,000"}, "totalCurrentLiabilities": {"raw": 80610000000, "fmt": "80.61B", "longFmt": "80,610,000,000"}, "shortLongTermDebt": {"raw": 2513000000, "fmt": "2.51B", "longFmt": "2,513,000,000"}, "otherStockholderEquity": {"raw": -345000000, "fmt": "-345M", "longFmt": "-345,000,000"}, "propertyPlantEquipment": {"raw": 22471000000, "fmt": "22.47B", "longFmt": "22,471,000,000"}, "totalCurrentAssets": {"raw": 89378000000, "fmt": "89.38B", "longFmt": "89,378,000,000"}, "longTermInvestments": {"raw": 164065000000, "fmt": "164.06B", "longFmt": "164,065,000,000"}, "netTangibleAssets": {"raw": 110346000000, "fmt": "110.35B", "longFmt": "110,346,000,000"}, "shortTermInvestments": {"raw": 20481000000, "fmt": "20.48B", "longFmt": "20,481,000,000"}, "netReceivables": {"raw": 30343000000, "fmt": "30.34B", "longFmt": "30,343,000,000"}, "maxAge": 1, "longTermDebt": {"raw": 53329000000, "fmt": "53.33B", "longFmt": "53,329,000,000"}, "inventory": {"raw": 2349000000, "fmt": "2.35B", "longFmt": "2,349,000,000"}, "accountsPayable": {"raw": 35490000000, "fmt": "35.49B", "longFmt": "35,490,000,000"}}, "CF": {"investments": {"raw": -44417000000, "fmt": "-44.42B", "longFmt": "-44,417,000,000"}, "changeToLiabilities": {"raw": 6043000000, "fmt": "6.04B", "longFmt": "6,043,000,000"}, "totalCashflowsFromInvestingActivities": {"raw": -56274000000, "fmt": "-56.27B", "longFmt": "-56,274,000,000"}, "netBorrowings": {"raw": 29305000000, "fmt": "29.3B", "longFmt": "29,305,000,000"}, "totalCashFromFinancingActivities": {"raw": -17716000000, "fmt": "-17.72B", "longFmt": "-17,716,000,000"}, "changeToOperatingActivities": {"raw": 5040000000, "fmt": "5.04B", "longFmt": "5,040,000,000"}, "issuanceOfStock": {"raw": 543000000, "fmt": "543M", "longFmt": "543,000,000"}, "netIncome": {"raw": 53394000000, "fmt": "53.39B", "longFmt": "53,394,000,000"}, "changeInCash": {"raw": 7276000000, "fmt": "7.28B", "longFmt": "7,276,000,000"}, "endDate": {"raw": 1443225600, "fmt": "2015-09-26"}, "repurchaseOfStock": {"raw": -36752000000, "fmt": "-36.75B", "longFmt": "-36,752,000,000"}, "totalCashFromOperatingActivities": {"raw": 81266000000, "fmt": "81.27B", "longFmt": "81,266,000,000"}, "depreciation": {"raw": 11257000000, "fmt": "11.26B", "longFmt": "11,257,000,000"}, "otherCashflowsFromInvestingActivities": {"raw": -26000000, "fmt": "-26M", "longFmt": "-26,000,000"}, "dividendsPaid": {"raw": -11561000000, "fmt": "-11.56B", "longFmt": "-11,561,000,000"}, "changeToInventory": {"raw": -238000000, "fmt": "-238M", "longFmt": "-238,000,000"}, "changeToAccountReceivables": {"raw": 417000000, "fmt": "417M", "longFmt": "417,000,000"}, "otherCashflowsFromFinancingActivities": {"raw": 749000000, "fmt": "749M", "longFmt": "749,000,000"}, "maxAge": 1, "changeToNetincome": {"raw": 5353000000, "fmt": "5.35B", "longFmt": "5,353,000,000"}, "capitalExpenditures": {"raw": -11247000000, "fmt": "-11.25B", "longFmt": "-11,247,000,000"}}}}], "statistic": {"annualHoldingsTurnover": {}, "enterpriseToRevenue": {"raw": 3.189, "fmt": "3.19"}, "beta3Year": {}, "profitMargins": {"raw": 0.22716999, "fmt": "22.72%"}, "enterpriseToEbitda": {"raw": 10.492, "fmt": "10.49"}, "52WeekChange": {"raw": 0.097067475, "fmt": "9.71%"}, "morningStarRiskRating": {}, "forwardEps": {"raw": 13.33, "fmt": "13.33"}, "revenueQuarterlyGrowth": {}, "sharesOutstanding": {"raw": 4715279872, "fmt": "4.72B", "longFmt": "4,715,279,872"}, "fundInceptionDate": {}, "annualReportExpenseRatio": {}, "totalAssets": {}, "bookValue": {"raw": 24.925, "fmt": "24.92"}, "sharesShort": {"raw": 46579709, "fmt": "46.58M", "longFmt": "46,579,709"}, "sharesPercentSharesOut": {"raw": 0.0098, "fmt": "0.98%"}, "fundFamily": null, "lastFiscalYearEnd": {"raw": 1538179200, "fmt": "2018-09-29"}, "heldPercentInstitutions": {"raw": 0.61508, "fmt": "61.51%"}, "netIncomeToCommon": {"raw": 59430998016, "fmt": "59.43B", "longFmt": "59,430,998,016"}, "trailingEps": {"raw": 12.121, "fmt": "12.12"}, "lastDividendValue": {}, "SandP52WeekChange": {"raw": 0.04845023, "fmt": "4.85%"}, "priceToBook": {"raw": 6.7951856, "fmt": "6.80"}, "heldPercentInsiders": {"raw": 0.00074, "fmt": "0.07%"}, "nextFiscalYearEnd": {"raw": 1601337600, "fmt": "2020-09-29"}, "yield": {}, "mostRecentQuarter": {"raw": 1546041600, "fmt": "2018-12-29"}, "shortRatio": {"raw": 0.96, "fmt": "0.96"}, "sharesShortPreviousMonthDate": {"raw": 1544745600, "fmt": "2018-12-14"}, "floatShares": {"raw": 4459853282, "fmt": "4.46B", "longFmt": "4,459,853,282"}, "beta": {"raw": 0.987796, "fmt": "0.99"}, "enterpriseValue": {"raw": 834332983296, "fmt": "834.33B", "longFmt": "834,332,983,296"}, "priceHint": {"raw": 2, "fmt": "2", "longFmt": "2"}, "threeYearAverageReturn": {}, "lastSplitDate": {"raw": 1402272000, "fmt": "2014-06-09"}, "lastSplitFactor": "1/7", "legalType": null, "morningStarOverallRating": {}, "earningsQuarterlyGrowth": {"raw": -0.005, "fmt": "-0.50%"}, "priceToSalesTrailing12Months": {}, "dateShortInterest": {"raw": 1547510400, "fmt": "2019-01-15"}, "pegRatio": {"raw": 1.02, "fmt": "1.02"}, "ytdReturn": {}, "forwardPE": {"raw": 12.705926, "fmt": "12.71"}, "maxAge": 1, "lastCapGain": {}, "shortPercentOfFloat": {"raw": 0.0099, "fmt": "0.99%"}, "sharesShortPriorMonth": {"raw": 45280056, "fmt": "45.28M", "longFmt": "45,280,056"}, "category": null, "fiveYearAverageReturn": {}}, "historical": [{"date": 1525786200, "open": 184.99000549316406, "high": 186.22000122070312, "low": 183.6699981689453, "close": 186.0500030517578, "volume": 28402800, "adjclose": 184.04544067382812}, {"date": 1525872600, "open": 186.5500030517578, "high": 187.39999389648438, "low": 185.22000122070312, "close": 187.36000061035156, "volume": 23211200, "adjclose": 185.34133911132812}, {"date": 1525959000, "open": 187.74000549316406, "high": 190.3699951171875, "low": 187.64999389648438, "close": 190.0399932861328, "volume": 27989300, "adjclose": 187.99244689941406}, {"date": 1526045400, "open": 189.49000549316406, "high": 190.05999755859375, "low": 187.4499969482422, "close": 188.58999633789062, "volume": 26212200, "adjclose": 187.2774658203125}, {"date": 1526304600, "open": 189.00999450683594, "high": 189.52999877929688, "low": 187.86000061035156, "close": 188.14999389648438, "volume": 20778800, "adjclose": 186.84051513671875}, {"date": 1526391000, "open": 186.77999877929688, "high": 187.07000732421875, "low": 185.10000610351562, "close": 186.44000244140625, "volume": 23695200, "adjclose": 185.14242553710938}, {"date": 1526477400, "open": 186.07000732421875, "high": 188.4600067138672, "low": 186, "close": 188.17999267578125, "volume": 19183100, "adjclose": 186.87030029296875}, {"date": 1526563800, "open": 188, "high": 188.91000366210938, "low": 186.36000061035156, "close": 186.99000549316406, "volume": 17294000, "adjclose": 185.6885986328125}, {"date": 1526650200, "open": 187.19000244140625, "high": 187.80999755859375, "low": 186.1300048828125, "close": 186.30999755859375, "volume": 18297700, "adjclose": 185.01333618164062}, {"date": 1526909400, "open": 188, "high": 189.27000427246094, "low": 186.91000366210938, "close": 187.6300048828125, "volume": 18400800, "adjclose": 186.3241424560547}, {"date": 1526995800, "open": 188.3800048828125, "high": 188.8800048828125, "low": 186.77999877929688, "close": 187.16000366210938, "volume": 15240700, "adjclose": 185.857421875}, {"date": 1527082200, "open": 186.35000610351562, "high": 188.5, "low": 185.75999450683594, "close": 188.36000061035156, "volume": 20058400, "adjclose": 187.04905700683594}, {"date": 1527168600, "open": 188.77000427246094, "high": 188.83999633789062, "low": 186.2100067138672, "close": 188.14999389648438, "volume": 23234000, "adjclose": 186.84051513671875}, {"date": 1527255000, "open": 188.22999572753906, "high": 189.64999389648438, "low": 187.64999389648438, "close": 188.5800018310547, "volume": 17461000, "adjclose": 187.2675323486328}, {"date": 1527600600, "open": 187.60000610351562, "high": 188.75, "low": 186.8699951171875, "close": 187.89999389648438, "volume": 22514100, "adjclose": 186.59226989746094}, {"date": 1527687000, "open": 187.72000122070312, "high": 188, "low": 186.77999877929688, "close": 187.5, "volume": 18690500, "adjclose": 186.19503784179688}, {"date": 1527773400, "open": 187.22000122070312, "high": 188.22999572753906, "low": 186.13999938964844, "close": 186.8699951171875, "volume": 27482800, "adjclose": 185.56942749023438}, {"date": 1527859800, "open": 187.99000549316406, "high": 190.25999450683594, "low": 187.75, "close": 190.24000549316406, "volume": 23442500, "adjclose": 188.91598510742188}, {"date": 1528119000, "open": 191.63999938964844, "high": 193.4199981689453, "low": 191.35000610351562, "close": 191.8300018310547, "volume": 26266200, "adjclose": 190.49490356445312}, {"date": 1528205400, "open": 193.07000732421875, "high": 193.94000244140625, "low": 192.36000061035156, "close": 193.30999755859375, "volume": 21566000, "adjclose": 191.964599609375}, {"date": 1528291800, "open": 193.6300048828125, "high": 194.0800018310547, "low": 191.9199981689453, "close": 193.97999572753906, "volume": 20933600, "adjclose": 192.62994384765625}, {"date": 1528378200, "open": 194.13999938964844, "high": 194.1999969482422, "low": 192.33999633789062, "close": 193.4600067138672, "volume": 21347200, "adjclose": 192.1135711669922}, {"date": 1528464600, "open": 191.1699981689453, "high": 192, "low": 189.77000427246094, "close": 191.6999969482422, "volume": 26656800, "adjclose": 190.36581420898438}, {"date": 1528723800, "open": 191.35000610351562, "high": 191.97000122070312, "low": 190.2100067138672, "close": 191.22999572753906, "volume": 18308500, "adjclose": 189.8990936279297}, {"date": 1528810200, "open": 191.38999938964844, "high": 192.61000061035156, "low": 191.14999389648438, "close": 192.27999877929688, "volume": 16911100, "adjclose": 190.9417724609375}, {"date": 1528896600, "open": 192.4199981689453, "high": 192.8800048828125, "low": 190.44000244140625, "close": 190.6999969482422, "volume": 21638400, "adjclose": 189.37277221679688}, {"date": 1528983000, "open": 191.5500030517578, "high": 191.57000732421875, "low": 190.22000122070312, "close": 190.8000030517578, "volume": 21610100, "adjclose": 189.47207641601562}, {"date": 1529069400, "open": 190.02999877929688, "high": 190.16000366210938, "low": 188.25999450683594, "close": 188.83999633789062, "volume": 61719200, "adjclose": 187.5257110595703}, {"date": 1529328600, "open": 187.8800048828125, "high": 189.22000122070312, "low": 187.1999969482422, "close": 188.74000549316406, "volume": 18484900, "adjclose": 187.42642211914062}, {"date": 1529415000, "open": 185.13999938964844, "high": 186.3300018310547, "low": 183.4499969482422, "close": 185.69000244140625, "volume": 33578500, "adjclose": 184.39764404296875}, {"date": 1529501400, "open": 186.35000610351562, "high": 187.1999969482422, "low": 185.72999572753906, "close": 186.5, "volume": 20628700, "adjclose": 185.20201110839844}, {"date": 1529587800, "open": 187.25, "high": 188.35000610351562, "low": 184.94000244140625, "close": 185.4600067138672, "volume": 25711900, "adjclose": 184.16925048828125}, {"date": 1529674200, "open": 186.1199951171875, "high": 186.14999389648438, "low": 184.6999969482422, "close": 184.9199981689453, "volume": 27200400, "adjclose": 183.63299560546875}, {"date": 1529933400, "open": 183.39999389648438, "high": 184.9199981689453, "low": 180.72999572753906, "close": 182.1699981689453, "volume": 31663100, "adjclose": 180.9021453857422}, {"date": 1530019800, "open": 182.99000549316406, "high": 186.52999877929688, "low": 182.5399932861328, "close": 184.42999267578125, "volume": 24569200, "adjclose": 183.1464080810547}, {"date": 1530106200, "open": 185.22999572753906, "high": 187.27999877929688, "low": 184.02999877929688, "close": 184.16000366210938, "volume": 25285300, "adjclose": 182.8782958984375}, {"date": 1530192600, "open": 184.10000610351562, "high": 186.2100067138672, "low": 183.8000030517578, "close": 185.5, "volume": 17365200, "adjclose": 184.20896911621094}, {"date": 1530279000, "open": 186.2899932861328, "high": 187.19000244140625, "low": 182.91000366210938, "close": 185.11000061035156, "volume": 22737700, "adjclose": 183.82168579101562}, {"date": 1530538200, "open": 183.82000732421875, "high": 187.3000030517578, "low": 183.4199981689453, "close": 187.17999267578125, "volume": 17731300, "adjclose": 185.87725830078125}, {"date": 1530624600, "open": 187.7899932861328, "high": 187.9499969482422, "low": 183.5399932861328, "close": 183.9199981689453, "volume": 13954800, "adjclose": 182.63995361328125}, {"date": 1530797400, "open": 185.25999450683594, "high": 186.41000366210938, "low": 184.27999877929688, "close": 185.39999389648438, "volume": 16604200, "adjclose": 184.10964965820312}, {"date": 1530883800, "open": 185.4199981689453, "high": 188.42999267578125, "low": 185.1999969482422, "close": 187.97000122070312, "volume": 17485200, "adjclose": 186.6617889404297}, {"date": 1531143000, "open": 189.5, "high": 190.67999267578125, "low": 189.3000030517578, "close": 190.5800018310547, "volume": 19756600, "adjclose": 189.2536163330078}, {"date": 1531229400, "open": 190.7100067138672, "high": 191.27999877929688, "low": 190.17999267578125, "close": 190.35000610351562, "volume": 15939100, "adjclose": 189.02520751953125}, {"date": 1531315800, "open": 188.5, "high": 189.77999877929688, "low": 187.61000061035156, "close": 187.8800048828125, "volume": 18831500, "adjclose": 186.57240295410156}, {"date": 1531402200, "open": 189.52999877929688, "high": 191.41000366210938, "low": 189.30999755859375, "close": 191.02999877929688, "volume": 18041100, "adjclose": 189.7004852294922}, {"date": 1531488600, "open": 191.0800018310547, "high": 191.83999633789062, "low": 190.89999389648438, "close": 191.3300018310547, "volume": 12513900, "adjclose": 189.99839782714844}, {"date": 1531747800, "open": 191.52000427246094, "high": 192.64999389648438, "low": 190.4199981689453, "close": 190.91000366210938, "volume": 15043100, "adjclose": 189.58131408691406}, {"date": 1531834200, "open": 189.75, "high": 191.8699951171875, "low": 189.1999969482422, "close": 191.4499969482422, "volume": 15534500, "adjclose": 190.1175537109375}, {"date": 1531920600, "open": 191.77999877929688, "high": 191.8000030517578, "low": 189.92999267578125, "close": 190.39999389648438, "volume": 16393400, "adjclose": 189.07485961914062}, {"date": 1532007000, "open": 189.69000244140625, "high": 192.5500030517578, "low": 189.69000244140625, "close": 191.8800048828125, "volume": 20286800, "adjclose": 190.54457092285156}, {"date": 1532093400, "open": 191.77999877929688, "high": 192.42999267578125, "low": 190.1699981689453, "close": 191.44000244140625, "volume": 20676200, "adjclose": 190.10763549804688}, {"date": 1532352600, "open": 190.67999267578125, "high": 191.9600067138672, "low": 189.55999755859375, "close": 191.61000061035156, "volume": 15989400, "adjclose": 190.2764434814453}, {"date": 1532439000, "open": 192.4499969482422, "high": 193.66000366210938, "low": 192.0500030517578, "close": 193, "volume": 18697900, "adjclose": 191.65676879882812}, {"date": 1532525400, "open": 193.05999755859375, "high": 194.85000610351562, "low": 192.42999267578125, "close": 194.82000732421875, "volume": 16709900, "adjclose": 193.464111328125}, {"date": 1532611800, "open": 194.61000061035156, "high": 195.9600067138672, "low": 193.61000061035156, "close": 194.2100067138672, "volume": 19076000, "adjclose": 192.8583526611328}, {"date": 1532698200, "open": 194.99000549316406, "high": 195.19000244140625, "low": 190.10000610351562, "close": 190.97999572753906, "volume": 24024000, "adjclose": 189.65081787109375}, {"date": 1532957400, "open": 191.89999389648438, "high": 192.1999969482422, "low": 189.07000732421875, "close": 189.91000366210938, "volume": 21029500, "adjclose": 188.58827209472656}, {"date": 1533043800, "open": 190.3000030517578, "high": 192.13999938964844, "low": 189.33999633789062, "close": 190.2899932861328, "volume": 39373000, "adjclose": 188.9656219482422}, {"date": 1533130200, "open": 199.1300048828125, "high": 201.75999450683594, "low": 197.30999755859375, "close": 201.5, "volume": 67935700, "adjclose": 200.0976104736328}, {"date": 1533216600, "open": 200.5800018310547, "high": 208.3800048828125, "low": 200.35000610351562, "close": 207.38999938964844, "volume": 62404000, "adjclose": 205.94662475585938}, {"date": 1533303000, "open": 207.02999877929688, "high": 208.74000549316406, "low": 205.47999572753906, "close": 207.99000549316406, "volume": 33447400, "adjclose": 206.54244995117188}, {"date": 1533562200, "open": 208, "high": 209.25, "low": 207.07000732421875, "close": 209.07000732421875, "volume": 25425400, "adjclose": 207.61492919921875}, {"date": 1533648600, "open": 209.32000732421875, "high": 209.5, "low": 206.75999450683594, "close": 207.11000061035156, "volume": 25587400, "adjclose": 205.6685791015625}, {"date": 1533735000, "open": 206.0500030517578, "high": 207.80999755859375, "low": 204.52000427246094, "close": 207.25, "volume": 22525500, "adjclose": 205.80760192871094}, {"date": 1533821400, "open": 207.27999877929688, "high": 209.77999877929688, "low": 207.1999969482422, "close": 208.8800048828125, "volume": 23469200, "adjclose": 207.42625427246094}, {"date": 1533907800, "open": 207.36000061035156, "high": 209.10000610351562, "low": 206.6699981689453, "close": 207.52999877929688, "volume": 24611200, "adjclose": 206.80841064453125}, {"date": 1534167000, "open": 207.6999969482422, "high": 210.9499969482422, "low": 207.6999969482422, "close": 208.8699951171875, "volume": 25869100, "adjclose": 208.1437530517578}, {"date": 1534253400, "open": 210.16000366210938, "high": 210.55999755859375, "low": 208.25999450683594, "close": 209.75, "volume": 20748000, "adjclose": 209.02069091796875}, {"date": 1534339800, "open": 209.22000122070312, "high": 210.74000549316406, "low": 208.3300018310547, "close": 210.24000549316406, "volume": 28807600, "adjclose": 209.5089874267578}, {"date": 1534426200, "open": 211.75, "high": 213.80999755859375, "low": 211.47000122070312, "close": 213.32000732421875, "volume": 28500400, "adjclose": 212.5782928466797}, {"date": 1534512600, "open": 213.44000244140625, "high": 217.9499969482422, "low": 213.16000366210938, "close": 217.5800018310547, "volume": 35427000, "adjclose": 216.82347106933594}, {"date": 1534771800, "open": 218.10000610351562, "high": 219.17999267578125, "low": 215.11000061035156, "close": 215.4600067138672, "volume": 30287700, "adjclose": 214.71084594726562}, {"date": 1534858200, "open": 216.8000030517578, "high": 217.19000244140625, "low": 214.02999877929688, "close": 215.0399932861328, "volume": 26159800, "adjclose": 214.29229736328125}, {"date": 1534944600, "open": 214.10000610351562, "high": 216.36000061035156, "low": 213.83999633789062, "close": 215.0500030517578, "volume": 19018100, "adjclose": 214.30226135253906}, {"date": 1535031000, "open": 214.64999389648438, "high": 217.0500030517578, "low": 214.60000610351562, "close": 215.49000549316406, "volume": 18883200, "adjclose": 214.74073791503906}, {"date": 1535117400, "open": 216.60000610351562, "high": 216.89999389648438, "low": 215.11000061035156, "close": 216.16000366210938, "volume": 18476400, "adjclose": 215.4084014892578}, {"date": 1535376600, "open": 217.14999389648438, "high": 218.74000549316406, "low": 216.3300018310547, "close": 217.94000244140625, "volume": 20525100, "adjclose": 217.18222045898438}, {"date": 1535463000, "open": 219.00999450683594, "high": 220.5399932861328, "low": 218.9199981689453, "close": 219.6999969482422, "volume": 22776800, "adjclose": 218.93609619140625}, {"date": 1535549400, "open": 220.14999389648438, "high": 223.49000549316406, "low": 219.41000366210938, "close": 222.97999572753906, "volume": 27254800, "adjclose": 222.20468139648438}, {"date": 1535635800, "open": 223.25, "high": 228.25999450683594, "low": 222.39999389648438, "close": 225.02999877929688, "volume": 48793800, "adjclose": 224.24755859375}, {"date": 1535722200, "open": 226.50999450683594, "high": 228.8699951171875, "low": 226, "close": 227.6300048828125, "volume": 43340100, "adjclose": 226.83853149414062}, {"date": 1536067800, "open": 228.41000366210938, "high": 229.17999267578125, "low": 226.6300048828125, "close": 228.36000061035156, "volume": 27390100, "adjclose": 227.56597900390625}, {"date": 1536154200, "open": 228.99000549316406, "high": 229.6699981689453, "low": 225.10000610351562, "close": 226.8699951171875, "volume": 33333000, "adjclose": 226.08116149902344}, {"date": 1536240600, "open": 226.22999572753906, "high": 227.35000610351562, "low": 221.3000030517578, "close": 223.10000610351562, "volume": 34290000, "adjclose": 222.32427978515625}, {"date": 1536327000, "open": 221.85000610351562, "high": 225.3699951171875, "low": 220.7100067138672, "close": 221.3000030517578, "volume": 37619800, "adjclose": 220.53053283691406}, {"date": 1536586200, "open": 220.9499969482422, "high": 221.85000610351562, "low": 216.47000122070312, "close": 218.3300018310547, "volume": 39516500, "adjclose": 217.57086181640625}, {"date": 1536672600, "open": 218.00999450683594, "high": 224.3000030517578, "low": 216.55999755859375, "close": 223.85000610351562, "volume": 35749000, "adjclose": 223.07167053222656}, {"date": 1536759000, "open": 224.94000244140625, "high": 225, "low": 219.83999633789062, "close": 221.07000732421875, "volume": 49278700, "adjclose": 220.3013458251953}, {"date": 1536845400, "open": 223.52000427246094, "high": 228.35000610351562, "low": 222.57000732421875, "close": 226.41000366210938, "volume": 41706400, "adjclose": 225.62277221679688}, {"date": 1536931800, "open": 225.75, "high": 226.83999633789062, "low": 222.52000427246094, "close": 223.83999633789062, "volume": 31999300, "adjclose": 223.0616912841797}, {"date": 1537191000, "open": 222.14999389648438, "high": 222.9499969482422, "low": 217.27000427246094, "close": 217.8800048828125, "volume": 37195100, "adjclose": 217.12242126464844}, {"date": 1537277400, "open": 217.7899932861328, "high": 221.85000610351562, "low": 217.1199951171875, "close": 218.24000549316406, "volume": 31571700, "adjclose": 217.48117065429688}, {"date": 1537363800, "open": 218.5, "high": 219.6199951171875, "low": 215.3000030517578, "close": 218.3699951171875, "volume": 27123800, "adjclose": 217.6107177734375}, {"date": 1537450200, "open": 220.24000549316406, "high": 222.27999877929688, "low": 219.14999389648438, "close": 220.02999877929688, "volume": 26608800, "adjclose": 219.26495361328125}, {"date": 1537536600, "open": 220.77999877929688, "high": 221.36000061035156, "low": 217.2899932861328, "close": 217.66000366210938, "volume": 96246700, "adjclose": 216.9031982421875}, {"date": 1537795800, "open": 216.82000732421875, "high": 221.25999450683594, "low": 216.6300048828125, "close": 220.7899932861328, "volume": 27693400, "adjclose": 220.0222930908203}, {"date": 1537882200, "open": 219.75, "high": 222.82000732421875, "low": 219.6999969482422, "close": 222.19000244140625, "volume": 24554400, "adjclose": 221.4174346923828}, {"date": 1537968600, "open": 221, "high": 223.75, "low": 219.75999450683594, "close": 220.4199981689453, "volume": 23984700, "adjclose": 219.65359497070312}, {"date": 1538055000, "open": 223.82000732421875, "high": 226.44000244140625, "low": 223.5399932861328, "close": 224.9499969482422, "volume": 30181200, "adjclose": 224.16783142089844}, {"date": 1538141400, "open": 224.7899932861328, "high": 225.83999633789062, "low": 224.02000427246094, "close": 225.74000549316406, "volume": 22929400, "adjclose": 224.95509338378906}, {"date": 1538400600, "open": 227.9499969482422, "high": 229.4199981689453, "low": 226.35000610351562, "close": 227.25999450683594, "volume": 23600800, "adjclose": 226.4698028564453}, {"date": 1538487000, "open": 227.25, "high": 230, "low": 226.6300048828125, "close": 229.27999877929688, "volume": 24788200, "adjclose": 228.4827880859375}, {"date": 1538573400, "open": 230.0500030517578, "high": 233.47000122070312, "low": 229.77999877929688, "close": 232.07000732421875, "volume": 28654800, "adjclose": 231.26309204101562}, {"date": 1538659800, "open": 230.77999877929688, "high": 232.35000610351562, "low": 226.72999572753906, "close": 227.99000549316406, "volume": 32042000, "adjclose": 227.19728088378906}, {"date": 1538746200, "open": 227.9600067138672, "high": 228.41000366210938, "low": 220.5800018310547, "close": 224.2899932861328, "volume": 33580500, "adjclose": 223.5101318359375}, {"date": 1539005400, "open": 222.2100067138672, "high": 224.8000030517578, "low": 220.1999969482422, "close": 223.77000427246094, "volume": 29663900, "adjclose": 222.991943359375}, {"date": 1539091800, "open": 223.63999938964844, "high": 227.27000427246094, "low": 222.25, "close": 226.8699951171875, "volume": 26891000, "adjclose": 226.08116149902344}, {"date": 1539178200, "open": 225.4600067138672, "high": 226.35000610351562, "low": 216.0500030517578, "close": 216.36000061035156, "volume": 41990600, "adjclose": 215.6077117919922}, {"date": 1539264600, "open": 214.52000427246094, "high": 219.5, "low": 212.32000732421875, "close": 214.4499969482422, "volume": 53124400, "adjclose": 213.704345703125}, {"date": 1539351000, "open": 220.4199981689453, "high": 222.8800048828125, "low": 216.83999633789062, "close": 222.11000061035156, "volume": 40337900, "adjclose": 221.3377227783203}, {"date": 1539610200, "open": 221.16000366210938, "high": 221.8300018310547, "low": 217.27000427246094, "close": 217.36000061035156, "volume": 30791000, "adjclose": 216.60423278808594}, {"date": 1539696600, "open": 218.92999267578125, "high": 222.99000549316406, "low": 216.75999450683594, "close": 222.14999389648438, "volume": 29184000, "adjclose": 221.3775634765625}, {"date": 1539783000, "open": 222.3000030517578, "high": 222.63999938964844, "low": 219.33999633789062, "close": 221.19000244140625, "volume": 22885400, "adjclose": 220.42091369628906}, {"date": 1539869400, "open": 217.86000061035156, "high": 219.74000549316406, "low": 213, "close": 216.02000427246094, "volume": 32581300, "adjclose": 215.26889038085938}, {"date": 1539955800, "open": 218.05999755859375, "high": 221.25999450683594, "low": 217.42999267578125, "close": 219.30999755859375, "volume": 33078700, "adjclose": 218.54745483398438}, {"date": 1540215000, "open": 219.7899932861328, "high": 223.36000061035156, "low": 218.94000244140625, "close": 220.64999389648438, "volume": 28792100, "adjclose": 219.88278198242188}, {"date": 1540301400, "open": 215.8300018310547, "high": 223.25, "low": 214.6999969482422, "close": 222.72999572753906, "volume": 38767800, "adjclose": 221.95555114746094}, {"date": 1540387800, "open": 222.60000610351562, "high": 224.22999572753906, "low": 214.5399932861328, "close": 215.08999633789062, "volume": 40925500, "adjclose": 214.3421173095703}, {"date": 1540474200, "open": 217.7100067138672, "high": 221.3800048828125, "low": 216.75, "close": 219.8000030517578, "volume": 29855800, "adjclose": 219.03575134277344}, {"date": 1540560600, "open": 215.89999389648438, "high": 220.19000244140625, "low": 212.6699981689453, "close": 216.3000030517578, "volume": 47258400, "adjclose": 215.54791259765625}, {"date": 1540819800, "open": 219.19000244140625, "high": 219.69000244140625, "low": 206.08999633789062, "close": 212.24000549316406, "volume": 45935500, "adjclose": 211.50204467773438}, {"date": 1540906200, "open": 211.14999389648438, "high": 215.17999267578125, "low": 209.27000427246094, "close": 213.3000030517578, "volume": 36660000, "adjclose": 212.558349609375}, {"date": 1540992600, "open": 216.8800048828125, "high": 220.4499969482422, "low": 216.6199951171875, "close": 218.86000061035156, "volume": 38358900, "adjclose": 218.09901428222656}, {"date": 1541079000, "open": 219.0500030517578, "high": 222.36000061035156, "low": 216.80999755859375, "close": 222.22000122070312, "volume": 58323200, "adjclose": 221.44732666015625}, {"date": 1541165400, "open": 209.5500030517578, "high": 213.64999389648438, "low": 205.42999267578125, "close": 207.47999572753906, "volume": 91328700, "adjclose": 206.75857543945312}, {"date": 1541428200, "open": 204.3000030517578, "high": 204.38999938964844, "low": 198.1699981689453, "close": 201.58999633789062, "volume": 66163700, "adjclose": 200.88905334472656}, {"date": 1541514600, "open": 201.9199981689453, "high": 204.72000122070312, "low": 201.69000244140625, "close": 203.77000427246094, "volume": 31882900, "adjclose": 203.06149291992188}, {"date": 1541601000, "open": 205.97000122070312, "high": 210.05999755859375, "low": 204.1300048828125, "close": 209.9499969482422, "volume": 33424400, "adjclose": 209.21998596191406}, {"date": 1541687400, "open": 209.97999572753906, "high": 210.1199951171875, "low": 206.75, "close": 208.49000549316406, "volume": 25362600, "adjclose": 208.49000549316406}, {"date": 1541773800, "open": 205.5500030517578, "high": 206.00999450683594, "low": 202.25, "close": 204.47000122070312, "volume": 34365800, "adjclose": 204.47000122070312}, {"date": 1542033000, "open": 199, "high": 199.85000610351562, "low": 193.7899932861328, "close": 194.1699981689453, "volume": 51135500, "adjclose": 194.1699981689453}, {"date": 1542119400, "open": 191.6300048828125, "high": 197.17999267578125, "low": 191.4499969482422, "close": 192.22999572753906, "volume": 46882900, "adjclose": 192.22999572753906}, {"date": 1542205800, "open": 193.89999389648438, "high": 194.47999572753906, "low": 185.92999267578125, "close": 186.8000030517578, "volume": 60801000, "adjclose": 186.8000030517578}, {"date": 1542292200, "open": 188.38999938964844, "high": 191.97000122070312, "low": 186.89999389648438, "close": 191.41000366210938, "volume": 46478800, "adjclose": 191.41000366210938}, {"date": 1542378600, "open": 190.5, "high": 194.97000122070312, "low": 189.4600067138672, "close": 193.52999877929688, "volume": 36928300, "adjclose": 193.52999877929688}, {"date": 1542637800, "open": 190, "high": 190.6999969482422, "low": 184.99000549316406, "close": 185.86000061035156, "volume": 41925300, "adjclose": 185.86000061035156}, {"date": 1542724200, "open": 178.3699951171875, "high": 181.47000122070312, "low": 175.50999450683594, "close": 176.97999572753906, "volume": 67825200, "adjclose": 176.97999572753906}, {"date": 1542810600, "open": 179.72999572753906, "high": 180.27000427246094, "low": 176.5500030517578, "close": 176.77999877929688, "volume": 31124200, "adjclose": 176.77999877929688}, {"date": 1542983400, "open": 174.94000244140625, "high": 176.60000610351562, "low": 172.10000610351562, "close": 172.2899932861328, "volume": 23624000, "adjclose": 172.2899932861328}, {"date": 1543242600, "open": 174.24000549316406, "high": 174.9499969482422, "low": 170.25999450683594, "close": 174.6199951171875, "volume": 44998500, "adjclose": 174.6199951171875}, {"date": 1543329000, "open": 171.50999450683594, "high": 174.77000427246094, "low": 170.8800048828125, "close": 174.24000549316406, "volume": 41387400, "adjclose": 174.24000549316406}, {"date": 1543415400, "open": 176.72999572753906, "high": 181.2899932861328, "low": 174.92999267578125, "close": 180.94000244140625, "volume": 46062500, "adjclose": 180.94000244140625}, {"date": 1543501800, "open": 182.66000366210938, "high": 182.8000030517578, "low": 177.6999969482422, "close": 179.5500030517578, "volume": 41770000, "adjclose": 179.5500030517578}, {"date": 1543588200, "open": 180.2899932861328, "high": 180.3300018310547, "low": 177.02999877929688, "close": 178.5800018310547, "volume": 39531500, "adjclose": 178.5800018310547}, {"date": 1543847400, "open": 184.4600067138672, "high": 184.94000244140625, "low": 181.2100067138672, "close": 184.82000732421875, "volume": 40802500, "adjclose": 184.82000732421875}, {"date": 1543933800, "open": 180.9499969482422, "high": 182.38999938964844, "low": 176.27000427246094, "close": 176.69000244140625, "volume": 41344300, "adjclose": 176.69000244140625}, {"date": 1544106600, "open": 171.75999450683594, "high": 174.77999877929688, "low": 170.4199981689453, "close": 174.72000122070312, "volume": 43098400, "adjclose": 174.72000122070312}, {"date": 1544193000, "open": 173.49000549316406, "high": 174.49000549316406, "low": 168.3000030517578, "close": 168.49000549316406, "volume": 42281600, "adjclose": 168.49000549316406}, {"date": 1544452200, "open": 165, "high": 170.08999633789062, "low": 163.3300018310547, "close": 169.60000610351562, "volume": 62026000, "adjclose": 169.60000610351562}, {"date": 1544538600, "open": 171.66000366210938, "high": 171.7899932861328, "low": 167, "close": 168.6300048828125, "volume": 47281700, "adjclose": 168.6300048828125}, {"date": 1544625000, "open": 170.39999389648438, "high": 171.9199981689453, "low": 169.02000427246094, "close": 169.10000610351562, "volume": 35627700, "adjclose": 169.10000610351562}, {"date": 1544711400, "open": 170.49000549316406, "high": 172.57000732421875, "low": 169.5500030517578, "close": 170.9499969482422, "volume": 31898600, "adjclose": 170.9499969482422}, {"date": 1544797800, "open": 169, "high": 169.0800018310547, "low": 165.27999877929688, "close": 165.47999572753906, "volume": 40703700, "adjclose": 165.47999572753906}, {"date": 1545057000, "open": 165.4499969482422, "high": 168.35000610351562, "low": 162.72999572753906, "close": 163.94000244140625, "volume": 44287900, "adjclose": 163.94000244140625}, {"date": 1545143400, "open": 165.3800048828125, "high": 167.52999877929688, "low": 164.38999938964844, "close": 166.07000732421875, "volume": 33841500, "adjclose": 166.07000732421875}, {"date": 1545229800, "open": 166, "high": 167.4499969482422, "low": 159.08999633789062, "close": 160.88999938964844, "volume": 49047300, "adjclose": 160.88999938964844}, {"date": 1545316200, "open": 160.39999389648438, "high": 162.11000061035156, "low": 155.3000030517578, "close": 156.8300018310547, "volume": 64773000, "adjclose": 156.8300018310547}, {"date": 1545402600, "open": 156.86000061035156, "high": 158.16000366210938, "low": 149.6300048828125, "close": 150.72999572753906, "volume": 95744600, "adjclose": 150.72999572753906}, {"date": 1545661800, "open": 148.14999389648438, "high": 151.5500030517578, "low": 146.58999633789062, "close": 146.8300018310547, "volume": 37169200, "adjclose": 146.8300018310547}, {"date": 1545834600, "open": 148.3000030517578, "high": 157.22999572753906, "low": 146.72000122070312, "close": 157.1699981689453, "volume": 58582500, "adjclose": 157.1699981689453}, {"date": 1545921000, "open": 155.83999633789062, "high": 156.77000427246094, "low": 150.07000732421875, "close": 156.14999389648438, "volume": 53117100, "adjclose": 156.14999389648438}, {"date": 1546007400, "open": 157.5, "high": 158.52000427246094, "low": 154.5500030517578, "close": 156.22999572753906, "volume": 42291400, "adjclose": 156.22999572753906}, {"date": 1546266600, "open": 158.52999877929688, "high": 159.36000061035156, "low": 156.47999572753906, "close": 157.74000549316406, "volume": 35003500, "adjclose": 157.74000549316406}, {"date": 1546439400, "open": 154.88999938964844, "high": 158.85000610351562, "low": 154.22999572753906, "close": 157.9199981689453, "volume": 37039700, "adjclose": 157.9199981689453}, {"date": 1546525800, "open": 143.97999572753906, "high": 145.72000122070312, "low": 142, "close": 142.19000244140625, "volume": 91312200, "adjclose": 142.19000244140625}, {"date": 1546612200, "open": 144.52999877929688, "high": 148.5500030517578, "low": 143.8000030517578, "close": 148.25999450683594, "volume": 58607100, "adjclose": 148.25999450683594}, {"date": 1546871400, "open": 148.6999969482422, "high": 148.8300018310547, "low": 145.89999389648438, "close": 147.92999267578125, "volume": 54777800, "adjclose": 147.92999267578125}, {"date": 1546957800, "open": 149.55999755859375, "high": 151.82000732421875, "low": 148.52000427246094, "close": 150.75, "volume": 41025300, "adjclose": 150.75}, {"date": 1547044200, "open": 151.2899932861328, "high": 154.52999877929688, "low": 149.6300048828125, "close": 153.30999755859375, "volume": 45099100, "adjclose": 153.30999755859375}, {"date": 1547130600, "open": 152.5, "high": 153.97000122070312, "low": 150.86000061035156, "close": 153.8000030517578, "volume": 35780700, "adjclose": 153.8000030517578}, {"date": 1547217000, "open": 152.8800048828125, "high": 153.6999969482422, "low": 151.50999450683594, "close": 152.2899932861328, "volume": 27023200, "adjclose": 152.2899932861328}, {"date": 1547476200, "open": 150.85000610351562, "high": 151.27000427246094, "low": 149.22000122070312, "close": 150, "volume": 32439200, "adjclose": 150}, {"date": 1547562600, "open": 150.27000427246094, "high": 153.38999938964844, "low": 150.0500030517578, "close": 153.07000732421875, "volume": 28710900, "adjclose": 153.07000732421875}, {"date": 1547649000, "open": 153.0800018310547, "high": 155.8800048828125, "low": 153, "close": 154.94000244140625, "volume": 30569700, "adjclose": 154.94000244140625}, {"date": 1547735400, "open": 154.1999969482422, "high": 157.66000366210938, "low": 153.25999450683594, "close": 155.86000061035156, "volume": 29821200, "adjclose": 155.86000061035156}, {"date": 1547821800, "open": 157.5, "high": 157.8800048828125, "low": 155.97999572753906, "close": 156.82000732421875, "volume": 33751000, "adjclose": 156.82000732421875}, {"date": 1548167400, "open": 156.41000366210938, "high": 156.72999572753906, "low": 152.6199951171875, "close": 153.3000030517578, "volume": 30394000, "adjclose": 153.3000030517578}, {"date": 1548253800, "open": 154.14999389648438, "high": 155.13999938964844, "low": 151.6999969482422, "close": 153.9199981689453, "volume": 23130600, "adjclose": 153.9199981689453}, {"date": 1548340200, "open": 154.11000061035156, "high": 154.47999572753906, "low": 151.74000549316406, "close": 152.6999969482422, "volume": 25441500, "adjclose": 152.6999969482422}, {"date": 1548426600, "open": 155.47999572753906, "high": 158.1300048828125, "low": 154.32000732421875, "close": 157.75999450683594, "volume": 33535500, "adjclose": 157.75999450683594}, {"date": 1548685800, "open": 155.7899932861328, "high": 156.3300018310547, "low": 153.66000366210938, "close": 156.3000030517578, "volume": 26192100, "adjclose": 156.3000030517578}, {"date": 1548772200, "open": 156.25, "high": 158.1300048828125, "low": 154.11000061035156, "close": 154.67999267578125, "volume": 41587200, "adjclose": 154.67999267578125}, {"date": 1548858600, "open": 163.25, "high": 166.14999389648438, "low": 160.22999572753906, "close": 165.25, "volume": 61109800, "adjclose": 165.25}, {"date": 1548945000, "open": 166.11000061035156, "high": 169, "low": 164.55999755859375, "close": 166.44000244140625, "volume": 40739600, "adjclose": 166.44000244140625}, {"date": 1549031400, "open": 166.9600067138672, "high": 168.97999572753906, "low": 165.92999267578125, "close": 166.52000427246094, "volume": 32668100, "adjclose": 166.52000427246094}, {"date": 1549290600, "open": 167.41000366210938, "high": 171.66000366210938, "low": 167.27999877929688, "close": 171.25, "volume": 31495500, "adjclose": 171.25}, {"date": 1549377000, "open": 172.86000061035156, "high": 175.0800018310547, "low": 172.35000610351562, "close": 174.17999267578125, "volume": 36101600, "adjclose": 174.17999267578125}, {"date": 1549463400, "open": 174.64999389648438, "high": 175.57000732421875, "low": 172.85000610351562, "close": 174.24000549316406, "volume": 28239600, "adjclose": 174.24000549316406}, {"date": 1549549800, "open": 172.39999389648438, "high": 173.94000244140625, "low": 170.33999633789062, "close": 170.94000244140625, "volume": 31688100, "adjclose": 170.94000244140625}, {"date": 1549641977, "open": 168.99000549316406, "high": 170.36000061035156, "low": 168.4199981689453, "close": 169.3800048828125, "volume": 8888847, "adjclose": 169.3800048828125}]}}
+{
+  "symbol": "AAPL",
+  "exchange": "NMS",
+  "sector": "Technology",
+  "data": {
+    "financial": [
+      {
+        "date": "2018-09-29",
+        "financial": {
+          "IS": {
+            "researchDevelopment": {
+              "raw": 14236000000,
+              "fmt": "14.24B",
+              "longFmt": "14,236,000,000"
+            },
+            "effectOfAccountingCharges": {},
+            "incomeBeforeTax": {
+              "raw": 72903000000,
+              "fmt": "72.9B",
+              "longFmt": "72,903,000,000"
+            },
+            "minorityInterest": {},
+            "netIncome": {
+              "raw": 59531000000,
+              "fmt": "59.53B",
+              "longFmt": "59,531,000,000"
+            },
+            "sellingGeneralAdministrative": {
+              "raw": 16705000000,
+              "fmt": "16.7B",
+              "longFmt": "16,705,000,000"
+            },
+            "grossProfit": {
+              "raw": 101839000000,
+              "fmt": "101.84B",
+              "longFmt": "101,839,000,000"
+            },
+            "ebit": {
+              "raw": 70898000000,
+              "fmt": "70.9B",
+              "longFmt": "70,898,000,000"
+            },
+            "endDate": {
+              "raw": 1538179200,
+              "fmt": "2018-09-29"
+            },
+            "operatingIncome": {
+              "raw": 70898000000,
+              "fmt": "70.9B",
+              "longFmt": "70,898,000,000"
+            },
+            "otherOperatingExpenses": {},
+            "interestExpense": {
+              "raw": -3240000000,
+              "fmt": "-3.24B",
+              "longFmt": "-3,240,000,000"
+            },
+            "extraordinaryItems": {},
+            "nonRecurring": {},
+            "otherItems": {},
+            "incomeTaxExpense": {
+              "raw": 13372000000,
+              "fmt": "13.37B",
+              "longFmt": "13,372,000,000"
+            },
+            "totalRevenue": {
+              "raw": 265595000000,
+              "fmt": "265.6B",
+              "longFmt": "265,595,000,000"
+            },
+            "totalOperatingExpenses": {
+              "raw": 194697000000,
+              "fmt": "194.7B",
+              "longFmt": "194,697,000,000"
+            },
+            "costOfRevenue": {
+              "raw": 163756000000,
+              "fmt": "163.76B",
+              "longFmt": "163,756,000,000"
+            },
+            "totalOtherIncomeExpenseNet": {
+              "raw": 2005000000,
+              "fmt": "2B",
+              "longFmt": "2,005,000,000"
+            },
+            "maxAge": 1,
+            "discontinuedOperations": {},
+            "netIncomeFromContinuingOps": {
+              "raw": 59531000000,
+              "fmt": "59.53B",
+              "longFmt": "59,531,000,000"
+            },
+            "netIncomeApplicableToCommonShares": {
+              "raw": 59531000000,
+              "fmt": "59.53B",
+              "longFmt": "59,531,000,000"
+            }
+          },
+          "BS": {
+            "totalLiab": {
+              "raw": 258578000000,
+              "fmt": "258.58B",
+              "longFmt": "258,578,000,000"
+            },
+            "totalStockholderEquity": {
+              "raw": 107147000000,
+              "fmt": "107.15B",
+              "longFmt": "107,147,000,000"
+            },
+            "otherCurrentLiab": {
+              "raw": 40230000000,
+              "fmt": "40.23B",
+              "longFmt": "40,230,000,000"
+            },
+            "totalAssets": {
+              "raw": 365725000000,
+              "fmt": "365.73B",
+              "longFmt": "365,725,000,000"
+            },
+            "endDate": {
+              "raw": 1538179200,
+              "fmt": "2018-09-29"
+            },
+            "commonStock": {
+              "raw": 40201000000,
+              "fmt": "40.2B",
+              "longFmt": "40,201,000,000"
+            },
+            "otherCurrentAssets": {
+              "raw": 12087000000,
+              "fmt": "12.09B",
+              "longFmt": "12,087,000,000"
+            },
+            "retainedEarnings": {
+              "raw": 70400000000,
+              "fmt": "70.4B",
+              "longFmt": "70,400,000,000"
+            },
+            "otherLiab": {
+              "raw": 47977000000,
+              "fmt": "47.98B",
+              "longFmt": "47,977,000,000"
+            },
+            "treasuryStock": {
+              "raw": -3454000000,
+              "fmt": "-3.45B",
+              "longFmt": "-3,454,000,000"
+            },
+            "otherAssets": {
+              "raw": 22283000000,
+              "fmt": "22.28B",
+              "longFmt": "22,283,000,000"
+            },
+            "cash": {
+              "raw": 25913000000,
+              "fmt": "25.91B",
+              "longFmt": "25,913,000,000"
+            },
+            "totalCurrentLiabilities": {
+              "raw": 116866000000,
+              "fmt": "116.87B",
+              "longFmt": "116,866,000,000"
+            },
+            "shortLongTermDebt": {
+              "raw": 8784000000,
+              "fmt": "8.78B",
+              "longFmt": "8,784,000,000"
+            },
+            "otherStockholderEquity": {
+              "raw": -3454000000,
+              "fmt": "-3.45B",
+              "longFmt": "-3,454,000,000"
+            },
+            "propertyPlantEquipment": {
+              "raw": 41304000000,
+              "fmt": "41.3B",
+              "longFmt": "41,304,000,000"
+            },
+            "totalCurrentAssets": {
+              "raw": 131339000000,
+              "fmt": "131.34B",
+              "longFmt": "131,339,000,000"
+            },
+            "longTermInvestments": {
+              "raw": 170799000000,
+              "fmt": "170.8B",
+              "longFmt": "170,799,000,000"
+            },
+            "netTangibleAssets": {
+              "raw": 107147000000,
+              "fmt": "107.15B",
+              "longFmt": "107,147,000,000"
+            },
+            "shortTermInvestments": {
+              "raw": 40388000000,
+              "fmt": "40.39B",
+              "longFmt": "40,388,000,000"
+            },
+            "netReceivables": {
+              "raw": 48995000000,
+              "fmt": "48.99B",
+              "longFmt": "48,995,000,000"
+            },
+            "maxAge": 1,
+            "longTermDebt": {
+              "raw": 93735000000,
+              "fmt": "93.73B",
+              "longFmt": "93,735,000,000"
+            },
+            "inventory": {
+              "raw": 3956000000,
+              "fmt": "3.96B",
+              "longFmt": "3,956,000,000"
+            },
+            "accountsPayable": {
+              "raw": 55888000000,
+              "fmt": "55.89B",
+              "longFmt": "55,888,000,000"
+            }
+          },
+          "CF": {
+            "investments": {
+              "raw": 30845000000,
+              "fmt": "30.84B",
+              "longFmt": "30,845,000,000"
+            },
+            "changeToLiabilities": {
+              "raw": 9131000000,
+              "fmt": "9.13B",
+              "longFmt": "9,131,000,000"
+            },
+            "totalCashflowsFromInvestingActivities": {
+              "raw": 16066000000,
+              "fmt": "16.07B",
+              "longFmt": "16,066,000,000"
+            },
+            "netBorrowings": {
+              "raw": 432000000,
+              "fmt": "432M",
+              "longFmt": "432,000,000"
+            },
+            "totalCashFromFinancingActivities": {
+              "raw": -87876000000,
+              "fmt": "-87.88B",
+              "longFmt": "-87,876,000,000"
+            },
+            "changeToOperatingActivities": {
+              "raw": 30057000000,
+              "fmt": "30.06B",
+              "longFmt": "30,057,000,000"
+            },
+            "issuanceOfStock": {
+              "raw": 669000000,
+              "fmt": "669M",
+              "longFmt": "669,000,000"
+            },
+            "netIncome": {
+              "raw": 59531000000,
+              "fmt": "59.53B",
+              "longFmt": "59,531,000,000"
+            },
+            "changeInCash": {
+              "raw": 5624000000,
+              "fmt": "5.62B",
+              "longFmt": "5,624,000,000"
+            },
+            "endDate": {
+              "raw": 1538179200,
+              "fmt": "2018-09-29"
+            },
+            "repurchaseOfStock": {
+              "raw": -75265000000,
+              "fmt": "-75.27B",
+              "longFmt": "-75,265,000,000"
+            },
+            "totalCashFromOperatingActivities": {
+              "raw": 77434000000,
+              "fmt": "77.43B",
+              "longFmt": "77,434,000,000"
+            },
+            "depreciation": {
+              "raw": 10903000000,
+              "fmt": "10.9B",
+              "longFmt": "10,903,000,000"
+            },
+            "otherCashflowsFromInvestingActivities": {
+              "raw": -745000000,
+              "fmt": "-745M",
+              "longFmt": "-745,000,000"
+            },
+            "dividendsPaid": {
+              "raw": -13712000000,
+              "fmt": "-13.71B",
+              "longFmt": "-13,712,000,000"
+            },
+            "changeToInventory": {
+              "raw": 828000000,
+              "fmt": "828M",
+              "longFmt": "828,000,000"
+            },
+            "changeToAccountReceivables": {
+              "raw": -5322000000,
+              "fmt": "-5.32B",
+              "longFmt": "-5,322,000,000"
+            },
+            "maxAge": 1,
+            "changeToNetincome": {
+              "raw": -27694000000,
+              "fmt": "-27.69B",
+              "longFmt": "-27,694,000,000"
+            },
+            "capitalExpenditures": {
+              "raw": -13313000000,
+              "fmt": "-13.31B",
+              "longFmt": "-13,313,000,000"
+            }
+          }
+        }
+      },
+      {
+        "date": "2017-09-30",
+        "financial": {
+          "IS": {
+            "researchDevelopment": {
+              "raw": 11581000000,
+              "fmt": "11.58B",
+              "longFmt": "11,581,000,000"
+            },
+            "effectOfAccountingCharges": {},
+            "incomeBeforeTax": {
+              "raw": 64089000000,
+              "fmt": "64.09B",
+              "longFmt": "64,089,000,000"
+            },
+            "minorityInterest": {},
+            "netIncome": {
+              "raw": 48351000000,
+              "fmt": "48.35B",
+              "longFmt": "48,351,000,000"
+            },
+            "sellingGeneralAdministrative": {
+              "raw": 15261000000,
+              "fmt": "15.26B",
+              "longFmt": "15,261,000,000"
+            },
+            "grossProfit": {
+              "raw": 88186000000,
+              "fmt": "88.19B",
+              "longFmt": "88,186,000,000"
+            },
+            "ebit": {
+              "raw": 61344000000,
+              "fmt": "61.34B",
+              "longFmt": "61,344,000,000"
+            },
+            "endDate": {
+              "raw": 1506729600,
+              "fmt": "2017-09-30"
+            },
+            "operatingIncome": {
+              "raw": 61344000000,
+              "fmt": "61.34B",
+              "longFmt": "61,344,000,000"
+            },
+            "otherOperatingExpenses": {},
+            "interestExpense": {
+              "raw": -2323000000,
+              "fmt": "-2.32B",
+              "longFmt": "-2,323,000,000"
+            },
+            "extraordinaryItems": {},
+            "nonRecurring": {},
+            "otherItems": {},
+            "incomeTaxExpense": {
+              "raw": 15738000000,
+              "fmt": "15.74B",
+              "longFmt": "15,738,000,000"
+            },
+            "totalRevenue": {
+              "raw": 229234000000,
+              "fmt": "229.23B",
+              "longFmt": "229,234,000,000"
+            },
+            "totalOperatingExpenses": {
+              "raw": 167890000000,
+              "fmt": "167.89B",
+              "longFmt": "167,890,000,000"
+            },
+            "costOfRevenue": {
+              "raw": 141048000000,
+              "fmt": "141.05B",
+              "longFmt": "141,048,000,000"
+            },
+            "totalOtherIncomeExpenseNet": {
+              "raw": 2745000000,
+              "fmt": "2.75B",
+              "longFmt": "2,745,000,000"
+            },
+            "maxAge": 1,
+            "discontinuedOperations": {},
+            "netIncomeFromContinuingOps": {
+              "raw": 48351000000,
+              "fmt": "48.35B",
+              "longFmt": "48,351,000,000"
+            },
+            "netIncomeApplicableToCommonShares": {
+              "raw": 48351000000,
+              "fmt": "48.35B",
+              "longFmt": "48,351,000,000"
+            }
+          },
+          "BS": {
+            "totalLiab": {
+              "raw": 241272000000,
+              "fmt": "241.27B",
+              "longFmt": "241,272,000,000"
+            },
+            "totalStockholderEquity": {
+              "raw": 134047000000,
+              "fmt": "134.05B",
+              "longFmt": "134,047,000,000"
+            },
+            "otherCurrentLiab": {
+              "raw": 38099000000,
+              "fmt": "38.1B",
+              "longFmt": "38,099,000,000"
+            },
+            "totalAssets": {
+              "raw": 375319000000,
+              "fmt": "375.32B",
+              "longFmt": "375,319,000,000"
+            },
+            "endDate": {
+              "raw": 1506729600,
+              "fmt": "2017-09-30"
+            },
+            "commonStock": {
+              "raw": 35867000000,
+              "fmt": "35.87B",
+              "longFmt": "35,867,000,000"
+            },
+            "otherCurrentAssets": {
+              "raw": 13936000000,
+              "fmt": "13.94B",
+              "longFmt": "13,936,000,000"
+            },
+            "retainedEarnings": {
+              "raw": 98330000000,
+              "fmt": "98.33B",
+              "longFmt": "98,330,000,000"
+            },
+            "otherLiab": {
+              "raw": 43251000000,
+              "fmt": "43.25B",
+              "longFmt": "43,251,000,000"
+            },
+            "treasuryStock": {
+              "raw": -150000000,
+              "fmt": "-150M",
+              "longFmt": "-150,000,000"
+            },
+            "otherAssets": {
+              "raw": 18177000000,
+              "fmt": "18.18B",
+              "longFmt": "18,177,000,000"
+            },
+            "cash": {
+              "raw": 20289000000,
+              "fmt": "20.29B",
+              "longFmt": "20,289,000,000"
+            },
+            "totalCurrentLiabilities": {
+              "raw": 100814000000,
+              "fmt": "100.81B",
+              "longFmt": "100,814,000,000"
+            },
+            "shortLongTermDebt": {
+              "raw": 6496000000,
+              "fmt": "6.5B",
+              "longFmt": "6,496,000,000"
+            },
+            "otherStockholderEquity": {
+              "raw": -150000000,
+              "fmt": "-150M",
+              "longFmt": "-150,000,000"
+            },
+            "propertyPlantEquipment": {
+              "raw": 33783000000,
+              "fmt": "33.78B",
+              "longFmt": "33,783,000,000"
+            },
+            "totalCurrentAssets": {
+              "raw": 128645000000,
+              "fmt": "128.65B",
+              "longFmt": "128,645,000,000"
+            },
+            "longTermInvestments": {
+              "raw": 194714000000,
+              "fmt": "194.71B",
+              "longFmt": "194,714,000,000"
+            },
+            "netTangibleAssets": {
+              "raw": 134047000000,
+              "fmt": "134.05B",
+              "longFmt": "134,047,000,000"
+            },
+            "shortTermInvestments": {
+              "raw": 53892000000,
+              "fmt": "53.89B",
+              "longFmt": "53,892,000,000"
+            },
+            "netReceivables": {
+              "raw": 35673000000,
+              "fmt": "35.67B",
+              "longFmt": "35,673,000,000"
+            },
+            "maxAge": 1,
+            "longTermDebt": {
+              "raw": 97207000000,
+              "fmt": "97.21B",
+              "longFmt": "97,207,000,000"
+            },
+            "inventory": {
+              "raw": 4855000000,
+              "fmt": "4.86B",
+              "longFmt": "4,855,000,000"
+            },
+            "accountsPayable": {
+              "raw": 44242000000,
+              "fmt": "44.24B",
+              "longFmt": "44,242,000,000"
+            }
+          },
+          "CF": {
+            "investments": {
+              "raw": -33542000000,
+              "fmt": "-33.54B",
+              "longFmt": "-33,542,000,000"
+            },
+            "changeToLiabilities": {
+              "raw": 8340000000,
+              "fmt": "8.34B",
+              "longFmt": "8,340,000,000"
+            },
+            "totalCashflowsFromInvestingActivities": {
+              "raw": -46446000000,
+              "fmt": "-46.45B",
+              "longFmt": "-46,446,000,000"
+            },
+            "netBorrowings": {
+              "raw": 29014000000,
+              "fmt": "29.01B",
+              "longFmt": "29,014,000,000"
+            },
+            "totalCashFromFinancingActivities": {
+              "raw": -17974000000,
+              "fmt": "-17.97B",
+              "longFmt": "-17,974,000,000"
+            },
+            "changeToOperatingActivities": {
+              "raw": -8447000000,
+              "fmt": "-8.45B",
+              "longFmt": "-8,447,000,000"
+            },
+            "issuanceOfStock": {
+              "raw": 555000000,
+              "fmt": "555M",
+              "longFmt": "555,000,000"
+            },
+            "netIncome": {
+              "raw": 48351000000,
+              "fmt": "48.35B",
+              "longFmt": "48,351,000,000"
+            },
+            "changeInCash": {
+              "raw": -195000000,
+              "fmt": "-195M",
+              "longFmt": "-195,000,000"
+            },
+            "endDate": {
+              "raw": 1506729600,
+              "fmt": "2017-09-30"
+            },
+            "repurchaseOfStock": {
+              "raw": -34774000000,
+              "fmt": "-34.77B",
+              "longFmt": "-34,774,000,000"
+            },
+            "totalCashFromOperatingActivities": {
+              "raw": 64225000000,
+              "fmt": "64.22B",
+              "longFmt": "64,225,000,000"
+            },
+            "depreciation": {
+              "raw": 10157000000,
+              "fmt": "10.16B",
+              "longFmt": "10,157,000,000"
+            },
+            "otherCashflowsFromInvestingActivities": {
+              "raw": -124000000,
+              "fmt": "-124M",
+              "longFmt": "-124,000,000"
+            },
+            "dividendsPaid": {
+              "raw": -12769000000,
+              "fmt": "-12.77B",
+              "longFmt": "-12,769,000,000"
+            },
+            "changeToInventory": {
+              "raw": -2723000000,
+              "fmt": "-2.72B",
+              "longFmt": "-2,723,000,000"
+            },
+            "changeToAccountReceivables": {
+              "raw": -2093000000,
+              "fmt": "-2.09B",
+              "longFmt": "-2,093,000,000"
+            },
+            "maxAge": 1,
+            "changeToNetincome": {
+              "raw": 10640000000,
+              "fmt": "10.64B",
+              "longFmt": "10,640,000,000"
+            },
+            "capitalExpenditures": {
+              "raw": -12451000000,
+              "fmt": "-12.45B",
+              "longFmt": "-12,451,000,000"
+            }
+          }
+        }
+      },
+      {
+        "date": "2016-09-24",
+        "financial": {
+          "IS": {
+            "researchDevelopment": {
+              "raw": 10045000000,
+              "fmt": "10.04B",
+              "longFmt": "10,045,000,000"
+            },
+            "effectOfAccountingCharges": {},
+            "incomeBeforeTax": {
+              "raw": 61372000000,
+              "fmt": "61.37B",
+              "longFmt": "61,372,000,000"
+            },
+            "minorityInterest": {},
+            "netIncome": {
+              "raw": 45687000000,
+              "fmt": "45.69B",
+              "longFmt": "45,687,000,000"
+            },
+            "sellingGeneralAdministrative": {
+              "raw": 14194000000,
+              "fmt": "14.19B",
+              "longFmt": "14,194,000,000"
+            },
+            "grossProfit": {
+              "raw": 84263000000,
+              "fmt": "84.26B",
+              "longFmt": "84,263,000,000"
+            },
+            "ebit": {
+              "raw": 60024000000,
+              "fmt": "60.02B",
+              "longFmt": "60,024,000,000"
+            },
+            "endDate": {
+              "raw": 1474675200,
+              "fmt": "2016-09-24"
+            },
+            "operatingIncome": {
+              "raw": 60024000000,
+              "fmt": "60.02B",
+              "longFmt": "60,024,000,000"
+            },
+            "otherOperatingExpenses": {},
+            "interestExpense": {
+              "raw": -1456000000,
+              "fmt": "-1.46B",
+              "longFmt": "-1,456,000,000"
+            },
+            "extraordinaryItems": {},
+            "nonRecurring": {},
+            "otherItems": {},
+            "incomeTaxExpense": {
+              "raw": 15685000000,
+              "fmt": "15.69B",
+              "longFmt": "15,685,000,000"
+            },
+            "totalRevenue": {
+              "raw": 215639000000,
+              "fmt": "215.64B",
+              "longFmt": "215,639,000,000"
+            },
+            "totalOperatingExpenses": {
+              "raw": 155615000000,
+              "fmt": "155.62B",
+              "longFmt": "155,615,000,000"
+            },
+            "costOfRevenue": {
+              "raw": 131376000000,
+              "fmt": "131.38B",
+              "longFmt": "131,376,000,000"
+            },
+            "totalOtherIncomeExpenseNet": {
+              "raw": 1348000000,
+              "fmt": "1.35B",
+              "longFmt": "1,348,000,000"
+            },
+            "maxAge": 1,
+            "discontinuedOperations": {},
+            "netIncomeFromContinuingOps": {
+              "raw": 45687000000,
+              "fmt": "45.69B",
+              "longFmt": "45,687,000,000"
+            },
+            "netIncomeApplicableToCommonShares": {
+              "raw": 45687000000,
+              "fmt": "45.69B",
+              "longFmt": "45,687,000,000"
+            }
+          },
+          "BS": {
+            "intangibleAssets": {
+              "raw": 3206000000,
+              "fmt": "3.21B",
+              "longFmt": "3,206,000,000"
+            },
+            "totalLiab": {
+              "raw": 193437000000,
+              "fmt": "193.44B",
+              "longFmt": "193,437,000,000"
+            },
+            "totalStockholderEquity": {
+              "raw": 128249000000,
+              "fmt": "128.25B",
+              "longFmt": "128,249,000,000"
+            },
+            "otherCurrentLiab": {
+              "raw": 8243000000,
+              "fmt": "8.24B",
+              "longFmt": "8,243,000,000"
+            },
+            "totalAssets": {
+              "raw": 321686000000,
+              "fmt": "321.69B",
+              "longFmt": "321,686,000,000"
+            },
+            "endDate": {
+              "raw": 1474675200,
+              "fmt": "2016-09-24"
+            },
+            "commonStock": {
+              "raw": 31251000000,
+              "fmt": "31.25B",
+              "longFmt": "31,251,000,000"
+            },
+            "otherCurrentAssets": {
+              "raw": 8283000000,
+              "fmt": "8.28B",
+              "longFmt": "8,283,000,000"
+            },
+            "retainedEarnings": {
+              "raw": 96364000000,
+              "fmt": "96.36B",
+              "longFmt": "96,364,000,000"
+            },
+            "otherLiab": {
+              "raw": 39004000000,
+              "fmt": "39B",
+              "longFmt": "39,004,000,000"
+            },
+            "goodWill": {
+              "raw": 5414000000,
+              "fmt": "5.41B",
+              "longFmt": "5,414,000,000"
+            },
+            "treasuryStock": {
+              "raw": 634000000,
+              "fmt": "634M",
+              "longFmt": "634,000,000"
+            },
+            "otherAssets": {
+              "raw": 8757000000,
+              "fmt": "8.76B",
+              "longFmt": "8,757,000,000"
+            },
+            "cash": {
+              "raw": 20484000000,
+              "fmt": "20.48B",
+              "longFmt": "20,484,000,000"
+            },
+            "totalCurrentLiabilities": {
+              "raw": 79006000000,
+              "fmt": "79.01B",
+              "longFmt": "79,006,000,000"
+            },
+            "shortLongTermDebt": {
+              "raw": 3500000000,
+              "fmt": "3.5B",
+              "longFmt": "3,500,000,000"
+            },
+            "otherStockholderEquity": {
+              "raw": 634000000,
+              "fmt": "634M",
+              "longFmt": "634,000,000"
+            },
+            "propertyPlantEquipment": {
+              "raw": 27010000000,
+              "fmt": "27.01B",
+              "longFmt": "27,010,000,000"
+            },
+            "totalCurrentAssets": {
+              "raw": 106869000000,
+              "fmt": "106.87B",
+              "longFmt": "106,869,000,000"
+            },
+            "longTermInvestments": {
+              "raw": 170430000000,
+              "fmt": "170.43B",
+              "longFmt": "170,430,000,000"
+            },
+            "netTangibleAssets": {
+              "raw": 119629000000,
+              "fmt": "119.63B",
+              "longFmt": "119,629,000,000"
+            },
+            "shortTermInvestments": {
+              "raw": 46671000000,
+              "fmt": "46.67B",
+              "longFmt": "46,671,000,000"
+            },
+            "netReceivables": {
+              "raw": 29299000000,
+              "fmt": "29.3B",
+              "longFmt": "29,299,000,000"
+            },
+            "maxAge": 1,
+            "longTermDebt": {
+              "raw": 75427000000,
+              "fmt": "75.43B",
+              "longFmt": "75,427,000,000"
+            },
+            "inventory": {
+              "raw": 2132000000,
+              "fmt": "2.13B",
+              "longFmt": "2,132,000,000"
+            },
+            "accountsPayable": {
+              "raw": 37294000000,
+              "fmt": "37.29B",
+              "longFmt": "37,294,000,000"
+            }
+          },
+          "CF": {
+            "investments": {
+              "raw": -32022000000,
+              "fmt": "-32.02B",
+              "longFmt": "-32,022,000,000"
+            },
+            "changeToLiabilities": {
+              "raw": 563000000,
+              "fmt": "563M",
+              "longFmt": "563,000,000"
+            },
+            "totalCashflowsFromInvestingActivities": {
+              "raw": -45977000000,
+              "fmt": "-45.98B",
+              "longFmt": "-45,977,000,000"
+            },
+            "netBorrowings": {
+              "raw": 22057000000,
+              "fmt": "22.06B",
+              "longFmt": "22,057,000,000"
+            },
+            "totalCashFromFinancingActivities": {
+              "raw": -20890000000,
+              "fmt": "-20.89B",
+              "longFmt": "-20,890,000,000"
+            },
+            "changeToOperatingActivities": {
+              "raw": -902000000,
+              "fmt": "-902M",
+              "longFmt": "-902,000,000"
+            },
+            "issuanceOfStock": {
+              "raw": 495000000,
+              "fmt": "495M",
+              "longFmt": "495,000,000"
+            },
+            "netIncome": {
+              "raw": 45687000000,
+              "fmt": "45.69B",
+              "longFmt": "45,687,000,000"
+            },
+            "changeInCash": {
+              "raw": -636000000,
+              "fmt": "-636M",
+              "longFmt": "-636,000,000"
+            },
+            "endDate": {
+              "raw": 1474675200,
+              "fmt": "2016-09-24"
+            },
+            "repurchaseOfStock": {
+              "raw": -31292000000,
+              "fmt": "-31.29B",
+              "longFmt": "-31,292,000,000"
+            },
+            "totalCashFromOperatingActivities": {
+              "raw": 66231000000,
+              "fmt": "66.23B",
+              "longFmt": "66,231,000,000"
+            },
+            "depreciation": {
+              "raw": 10505000000,
+              "fmt": "10.51B",
+              "longFmt": "10,505,000,000"
+            },
+            "otherCashflowsFromInvestingActivities": {
+              "raw": -924000000,
+              "fmt": "-924M",
+              "longFmt": "-924,000,000"
+            },
+            "dividendsPaid": {
+              "raw": -12150000000,
+              "fmt": "-12.15B",
+              "longFmt": "-12,150,000,000"
+            },
+            "changeToInventory": {
+              "raw": 217000000,
+              "fmt": "217M",
+              "longFmt": "217,000,000"
+            },
+            "changeToAccountReceivables": {
+              "raw": 527000000,
+              "fmt": "527M",
+              "longFmt": "527,000,000"
+            },
+            "maxAge": 1,
+            "changeToNetincome": {
+              "raw": 9634000000,
+              "fmt": "9.63B",
+              "longFmt": "9,634,000,000"
+            },
+            "capitalExpenditures": {
+              "raw": -12734000000,
+              "fmt": "-12.73B",
+              "longFmt": "-12,734,000,000"
+            }
+          }
+        }
+      },
+      {
+        "date": "2015-09-26",
+        "financial": {
+          "IS": {
+            "researchDevelopment": {
+              "raw": 8067000000,
+              "fmt": "8.07B",
+              "longFmt": "8,067,000,000"
+            },
+            "effectOfAccountingCharges": {},
+            "incomeBeforeTax": {
+              "raw": 72515000000,
+              "fmt": "72.52B",
+              "longFmt": "72,515,000,000"
+            },
+            "minorityInterest": {},
+            "netIncome": {
+              "raw": 53394000000,
+              "fmt": "53.39B",
+              "longFmt": "53,394,000,000"
+            },
+            "sellingGeneralAdministrative": {
+              "raw": 14329000000,
+              "fmt": "14.33B",
+              "longFmt": "14,329,000,000"
+            },
+            "grossProfit": {
+              "raw": 93626000000,
+              "fmt": "93.63B",
+              "longFmt": "93,626,000,000"
+            },
+            "ebit": {
+              "raw": 71230000000,
+              "fmt": "71.23B",
+              "longFmt": "71,230,000,000"
+            },
+            "endDate": {
+              "raw": 1443225600,
+              "fmt": "2015-09-26"
+            },
+            "operatingIncome": {
+              "raw": 71230000000,
+              "fmt": "71.23B",
+              "longFmt": "71,230,000,000"
+            },
+            "otherOperatingExpenses": {},
+            "interestExpense": {
+              "raw": -733000000,
+              "fmt": "-733M",
+              "longFmt": "-733,000,000"
+            },
+            "extraordinaryItems": {},
+            "nonRecurring": {},
+            "otherItems": {},
+            "incomeTaxExpense": {
+              "raw": 19121000000,
+              "fmt": "19.12B",
+              "longFmt": "19,121,000,000"
+            },
+            "totalRevenue": {
+              "raw": 233715000000,
+              "fmt": "233.72B",
+              "longFmt": "233,715,000,000"
+            },
+            "totalOperatingExpenses": {
+              "raw": 162485000000,
+              "fmt": "162.49B",
+              "longFmt": "162,485,000,000"
+            },
+            "costOfRevenue": {
+              "raw": 140089000000,
+              "fmt": "140.09B",
+              "longFmt": "140,089,000,000"
+            },
+            "totalOtherIncomeExpenseNet": {
+              "raw": 1285000000,
+              "fmt": "1.28B",
+              "longFmt": "1,285,000,000"
+            },
+            "maxAge": 1,
+            "discontinuedOperations": {},
+            "netIncomeFromContinuingOps": {
+              "raw": 53394000000,
+              "fmt": "53.39B",
+              "longFmt": "53,394,000,000"
+            },
+            "netIncomeApplicableToCommonShares": {
+              "raw": 53394000000,
+              "fmt": "53.39B",
+              "longFmt": "53,394,000,000"
+            }
+          },
+          "BS": {
+            "intangibleAssets": {
+              "raw": 3893000000,
+              "fmt": "3.89B",
+              "longFmt": "3,893,000,000"
+            },
+            "totalLiab": {
+              "raw": 170990000000,
+              "fmt": "170.99B",
+              "longFmt": "170,990,000,000"
+            },
+            "totalStockholderEquity": {
+              "raw": 119355000000,
+              "fmt": "119.36B",
+              "longFmt": "119,355,000,000"
+            },
+            "otherCurrentLiab": {
+              "raw": 10939000000,
+              "fmt": "10.94B",
+              "longFmt": "10,939,000,000"
+            },
+            "totalAssets": {
+              "raw": 290345000000,
+              "fmt": "290.35B",
+              "longFmt": "290,345,000,000"
+            },
+            "endDate": {
+              "raw": 1443225600,
+              "fmt": "2015-09-26"
+            },
+            "commonStock": {
+              "raw": 27416000000,
+              "fmt": "27.42B",
+              "longFmt": "27,416,000,000"
+            },
+            "otherCurrentAssets": {
+              "raw": 14691000000,
+              "fmt": "14.69B",
+              "longFmt": "14,691,000,000"
+            },
+            "retainedEarnings": {
+              "raw": 92284000000,
+              "fmt": "92.28B",
+              "longFmt": "92,284,000,000"
+            },
+            "otherLiab": {
+              "raw": 37051000000,
+              "fmt": "37.05B",
+              "longFmt": "37,051,000,000"
+            },
+            "goodWill": {
+              "raw": 5116000000,
+              "fmt": "5.12B",
+              "longFmt": "5,116,000,000"
+            },
+            "treasuryStock": {
+              "raw": -345000000,
+              "fmt": "-345M",
+              "longFmt": "-345,000,000"
+            },
+            "otherAssets": {
+              "raw": 5422000000,
+              "fmt": "5.42B",
+              "longFmt": "5,422,000,000"
+            },
+            "cash": {
+              "raw": 21120000000,
+              "fmt": "21.12B",
+              "longFmt": "21,120,000,000"
+            },
+            "totalCurrentLiabilities": {
+              "raw": 80610000000,
+              "fmt": "80.61B",
+              "longFmt": "80,610,000,000"
+            },
+            "shortLongTermDebt": {
+              "raw": 2513000000,
+              "fmt": "2.51B",
+              "longFmt": "2,513,000,000"
+            },
+            "otherStockholderEquity": {
+              "raw": -345000000,
+              "fmt": "-345M",
+              "longFmt": "-345,000,000"
+            },
+            "propertyPlantEquipment": {
+              "raw": 22471000000,
+              "fmt": "22.47B",
+              "longFmt": "22,471,000,000"
+            },
+            "totalCurrentAssets": {
+              "raw": 89378000000,
+              "fmt": "89.38B",
+              "longFmt": "89,378,000,000"
+            },
+            "longTermInvestments": {
+              "raw": 164065000000,
+              "fmt": "164.06B",
+              "longFmt": "164,065,000,000"
+            },
+            "netTangibleAssets": {
+              "raw": 110346000000,
+              "fmt": "110.35B",
+              "longFmt": "110,346,000,000"
+            },
+            "shortTermInvestments": {
+              "raw": 20481000000,
+              "fmt": "20.48B",
+              "longFmt": "20,481,000,000"
+            },
+            "netReceivables": {
+              "raw": 30343000000,
+              "fmt": "30.34B",
+              "longFmt": "30,343,000,000"
+            },
+            "maxAge": 1,
+            "longTermDebt": {
+              "raw": 53329000000,
+              "fmt": "53.33B",
+              "longFmt": "53,329,000,000"
+            },
+            "inventory": {
+              "raw": 2349000000,
+              "fmt": "2.35B",
+              "longFmt": "2,349,000,000"
+            },
+            "accountsPayable": {
+              "raw": 35490000000,
+              "fmt": "35.49B",
+              "longFmt": "35,490,000,000"
+            }
+          },
+          "CF": {
+            "investments": {
+              "raw": -44417000000,
+              "fmt": "-44.42B",
+              "longFmt": "-44,417,000,000"
+            },
+            "changeToLiabilities": {
+              "raw": 6043000000,
+              "fmt": "6.04B",
+              "longFmt": "6,043,000,000"
+            },
+            "totalCashflowsFromInvestingActivities": {
+              "raw": -56274000000,
+              "fmt": "-56.27B",
+              "longFmt": "-56,274,000,000"
+            },
+            "netBorrowings": {
+              "raw": 29305000000,
+              "fmt": "29.3B",
+              "longFmt": "29,305,000,000"
+            },
+            "totalCashFromFinancingActivities": {
+              "raw": -17716000000,
+              "fmt": "-17.72B",
+              "longFmt": "-17,716,000,000"
+            },
+            "changeToOperatingActivities": {
+              "raw": 5040000000,
+              "fmt": "5.04B",
+              "longFmt": "5,040,000,000"
+            },
+            "issuanceOfStock": {
+              "raw": 543000000,
+              "fmt": "543M",
+              "longFmt": "543,000,000"
+            },
+            "netIncome": {
+              "raw": 53394000000,
+              "fmt": "53.39B",
+              "longFmt": "53,394,000,000"
+            },
+            "changeInCash": {
+              "raw": 7276000000,
+              "fmt": "7.28B",
+              "longFmt": "7,276,000,000"
+            },
+            "endDate": {
+              "raw": 1443225600,
+              "fmt": "2015-09-26"
+            },
+            "repurchaseOfStock": {
+              "raw": -36752000000,
+              "fmt": "-36.75B",
+              "longFmt": "-36,752,000,000"
+            },
+            "totalCashFromOperatingActivities": {
+              "raw": 81266000000,
+              "fmt": "81.27B",
+              "longFmt": "81,266,000,000"
+            },
+            "depreciation": {
+              "raw": 11257000000,
+              "fmt": "11.26B",
+              "longFmt": "11,257,000,000"
+            },
+            "otherCashflowsFromInvestingActivities": {
+              "raw": -26000000,
+              "fmt": "-26M",
+              "longFmt": "-26,000,000"
+            },
+            "dividendsPaid": {
+              "raw": -11561000000,
+              "fmt": "-11.56B",
+              "longFmt": "-11,561,000,000"
+            },
+            "changeToInventory": {
+              "raw": -238000000,
+              "fmt": "-238M",
+              "longFmt": "-238,000,000"
+            },
+            "changeToAccountReceivables": {
+              "raw": 417000000,
+              "fmt": "417M",
+              "longFmt": "417,000,000"
+            },
+            "otherCashflowsFromFinancingActivities": {
+              "raw": 749000000,
+              "fmt": "749M",
+              "longFmt": "749,000,000"
+            },
+            "maxAge": 1,
+            "changeToNetincome": {
+              "raw": 5353000000,
+              "fmt": "5.35B",
+              "longFmt": "5,353,000,000"
+            },
+            "capitalExpenditures": {
+              "raw": -11247000000,
+              "fmt": "-11.25B",
+              "longFmt": "-11,247,000,000"
+            }
+          }
+        }
+      }
+    ],
+    "statistic": {
+      "annualHoldingsTurnover": {},
+      "enterpriseToRevenue": {
+        "raw": 3.189,
+        "fmt": "3.19"
+      },
+      "beta3Year": {},
+      "profitMargins": {
+        "raw": 0.22716999,
+        "fmt": "22.72%"
+      },
+      "enterpriseToEbitda": {
+        "raw": 10.492,
+        "fmt": "10.49"
+      },
+      "52WeekChange": {
+        "raw": 0.097067475,
+        "fmt": "9.71%"
+      },
+      "morningStarRiskRating": {},
+      "forwardEps": {
+        "raw": 13.33,
+        "fmt": "13.33"
+      },
+      "revenueQuarterlyGrowth": {},
+      "sharesOutstanding": {
+        "raw": 4715279872,
+        "fmt": "4.72B",
+        "longFmt": "4,715,279,872"
+      },
+      "fundInceptionDate": {},
+      "annualReportExpenseRatio": {},
+      "totalAssets": {},
+      "bookValue": {
+        "raw": 24.925,
+        "fmt": "24.92"
+      },
+      "sharesShort": {
+        "raw": 46579709,
+        "fmt": "46.58M",
+        "longFmt": "46,579,709"
+      },
+      "sharesPercentSharesOut": {
+        "raw": 0.0098,
+        "fmt": "0.98%"
+      },
+      "fundFamily": null,
+      "lastFiscalYearEnd": {
+        "raw": 1538179200,
+        "fmt": "2018-09-29"
+      },
+      "heldPercentInstitutions": {
+        "raw": 0.61508,
+        "fmt": "61.51%"
+      },
+      "netIncomeToCommon": {
+        "raw": 59430998016,
+        "fmt": "59.43B",
+        "longFmt": "59,430,998,016"
+      },
+      "trailingEps": {
+        "raw": 12.121,
+        "fmt": "12.12"
+      },
+      "lastDividendValue": {},
+      "SandP52WeekChange": {
+        "raw": 0.04845023,
+        "fmt": "4.85%"
+      },
+      "priceToBook": {
+        "raw": 6.7951856,
+        "fmt": "6.80"
+      },
+      "heldPercentInsiders": {
+        "raw": 0.00074,
+        "fmt": "0.07%"
+      },
+      "nextFiscalYearEnd": {
+        "raw": 1601337600,
+        "fmt": "2020-09-29"
+      },
+      "yield": {},
+      "mostRecentQuarter": {
+        "raw": 1546041600,
+        "fmt": "2018-12-29"
+      },
+      "shortRatio": {
+        "raw": 0.96,
+        "fmt": "0.96"
+      },
+      "sharesShortPreviousMonthDate": {
+        "raw": 1544745600,
+        "fmt": "2018-12-14"
+      },
+      "floatShares": {
+        "raw": 4459853282,
+        "fmt": "4.46B",
+        "longFmt": "4,459,853,282"
+      },
+      "beta": {
+        "raw": 0.987796,
+        "fmt": "0.99"
+      },
+      "enterpriseValue": {
+        "raw": 834332983296,
+        "fmt": "834.33B",
+        "longFmt": "834,332,983,296"
+      },
+      "priceHint": {
+        "raw": 2,
+        "fmt": "2",
+        "longFmt": "2"
+      },
+      "threeYearAverageReturn": {},
+      "lastSplitDate": {
+        "raw": 1402272000,
+        "fmt": "2014-06-09"
+      },
+      "lastSplitFactor": "1/7",
+      "legalType": null,
+      "morningStarOverallRating": {},
+      "earningsQuarterlyGrowth": {
+        "raw": -0.005,
+        "fmt": "-0.50%"
+      },
+      "priceToSalesTrailing12Months": {},
+      "dateShortInterest": {
+        "raw": 1547510400,
+        "fmt": "2019-01-15"
+      },
+      "pegRatio": {
+        "raw": 1.02,
+        "fmt": "1.02"
+      },
+      "ytdReturn": {},
+      "forwardPE": {
+        "raw": 12.705926,
+        "fmt": "12.71"
+      },
+      "maxAge": 1,
+      "lastCapGain": {},
+      "shortPercentOfFloat": {
+        "raw": 0.0099,
+        "fmt": "0.99%"
+      },
+      "sharesShortPriorMonth": {
+        "raw": 45280056,
+        "fmt": "45.28M",
+        "longFmt": "45,280,056"
+      },
+      "category": null,
+      "fiveYearAverageReturn": {}
+    },
+    "historical": [
+      {
+        "date": 1525786200,
+        "open": 184.99000549316406,
+        "high": 186.22000122070312,
+        "low": 183.6699981689453,
+        "close": 186.0500030517578,
+        "volume": 28402800,
+        "adjclose": 184.04544067382812
+      },
+      {
+        "date": 1525872600,
+        "open": 186.5500030517578,
+        "high": 187.39999389648438,
+        "low": 185.22000122070312,
+        "close": 187.36000061035156,
+        "volume": 23211200,
+        "adjclose": 185.34133911132812
+      },
+      {
+        "date": 1525959000,
+        "open": 187.74000549316406,
+        "high": 190.3699951171875,
+        "low": 187.64999389648438,
+        "close": 190.0399932861328,
+        "volume": 27989300,
+        "adjclose": 187.99244689941406
+      },
+      {
+        "date": 1526045400,
+        "open": 189.49000549316406,
+        "high": 190.05999755859375,
+        "low": 187.4499969482422,
+        "close": 188.58999633789062,
+        "volume": 26212200,
+        "adjclose": 187.2774658203125
+      },
+      {
+        "date": 1526304600,
+        "open": 189.00999450683594,
+        "high": 189.52999877929688,
+        "low": 187.86000061035156,
+        "close": 188.14999389648438,
+        "volume": 20778800,
+        "adjclose": 186.84051513671875
+      },
+      {
+        "date": 1526391000,
+        "open": 186.77999877929688,
+        "high": 187.07000732421875,
+        "low": 185.10000610351562,
+        "close": 186.44000244140625,
+        "volume": 23695200,
+        "adjclose": 185.14242553710938
+      },
+      {
+        "date": 1526477400,
+        "open": 186.07000732421875,
+        "high": 188.4600067138672,
+        "low": 186,
+        "close": 188.17999267578125,
+        "volume": 19183100,
+        "adjclose": 186.87030029296875
+      },
+      {
+        "date": 1526563800,
+        "open": 188,
+        "high": 188.91000366210938,
+        "low": 186.36000061035156,
+        "close": 186.99000549316406,
+        "volume": 17294000,
+        "adjclose": 185.6885986328125
+      },
+      {
+        "date": 1526650200,
+        "open": 187.19000244140625,
+        "high": 187.80999755859375,
+        "low": 186.1300048828125,
+        "close": 186.30999755859375,
+        "volume": 18297700,
+        "adjclose": 185.01333618164062
+      },
+      {
+        "date": 1526909400,
+        "open": 188,
+        "high": 189.27000427246094,
+        "low": 186.91000366210938,
+        "close": 187.6300048828125,
+        "volume": 18400800,
+        "adjclose": 186.3241424560547
+      },
+      {
+        "date": 1526995800,
+        "open": 188.3800048828125,
+        "high": 188.8800048828125,
+        "low": 186.77999877929688,
+        "close": 187.16000366210938,
+        "volume": 15240700,
+        "adjclose": 185.857421875
+      },
+      {
+        "date": 1527082200,
+        "open": 186.35000610351562,
+        "high": 188.5,
+        "low": 185.75999450683594,
+        "close": 188.36000061035156,
+        "volume": 20058400,
+        "adjclose": 187.04905700683594
+      },
+      {
+        "date": 1527168600,
+        "open": 188.77000427246094,
+        "high": 188.83999633789062,
+        "low": 186.2100067138672,
+        "close": 188.14999389648438,
+        "volume": 23234000,
+        "adjclose": 186.84051513671875
+      },
+      {
+        "date": 1527255000,
+        "open": 188.22999572753906,
+        "high": 189.64999389648438,
+        "low": 187.64999389648438,
+        "close": 188.5800018310547,
+        "volume": 17461000,
+        "adjclose": 187.2675323486328
+      },
+      {
+        "date": 1527600600,
+        "open": 187.60000610351562,
+        "high": 188.75,
+        "low": 186.8699951171875,
+        "close": 187.89999389648438,
+        "volume": 22514100,
+        "adjclose": 186.59226989746094
+      },
+      {
+        "date": 1527687000,
+        "open": 187.72000122070312,
+        "high": 188,
+        "low": 186.77999877929688,
+        "close": 187.5,
+        "volume": 18690500,
+        "adjclose": 186.19503784179688
+      },
+      {
+        "date": 1527773400,
+        "open": 187.22000122070312,
+        "high": 188.22999572753906,
+        "low": 186.13999938964844,
+        "close": 186.8699951171875,
+        "volume": 27482800,
+        "adjclose": 185.56942749023438
+      },
+      {
+        "date": 1527859800,
+        "open": 187.99000549316406,
+        "high": 190.25999450683594,
+        "low": 187.75,
+        "close": 190.24000549316406,
+        "volume": 23442500,
+        "adjclose": 188.91598510742188
+      },
+      {
+        "date": 1528119000,
+        "open": 191.63999938964844,
+        "high": 193.4199981689453,
+        "low": 191.35000610351562,
+        "close": 191.8300018310547,
+        "volume": 26266200,
+        "adjclose": 190.49490356445312
+      },
+      {
+        "date": 1528205400,
+        "open": 193.07000732421875,
+        "high": 193.94000244140625,
+        "low": 192.36000061035156,
+        "close": 193.30999755859375,
+        "volume": 21566000,
+        "adjclose": 191.964599609375
+      },
+      {
+        "date": 1528291800,
+        "open": 193.6300048828125,
+        "high": 194.0800018310547,
+        "low": 191.9199981689453,
+        "close": 193.97999572753906,
+        "volume": 20933600,
+        "adjclose": 192.62994384765625
+      },
+      {
+        "date": 1528378200,
+        "open": 194.13999938964844,
+        "high": 194.1999969482422,
+        "low": 192.33999633789062,
+        "close": 193.4600067138672,
+        "volume": 21347200,
+        "adjclose": 192.1135711669922
+      },
+      {
+        "date": 1528464600,
+        "open": 191.1699981689453,
+        "high": 192,
+        "low": 189.77000427246094,
+        "close": 191.6999969482422,
+        "volume": 26656800,
+        "adjclose": 190.36581420898438
+      },
+      {
+        "date": 1528723800,
+        "open": 191.35000610351562,
+        "high": 191.97000122070312,
+        "low": 190.2100067138672,
+        "close": 191.22999572753906,
+        "volume": 18308500,
+        "adjclose": 189.8990936279297
+      },
+      {
+        "date": 1528810200,
+        "open": 191.38999938964844,
+        "high": 192.61000061035156,
+        "low": 191.14999389648438,
+        "close": 192.27999877929688,
+        "volume": 16911100,
+        "adjclose": 190.9417724609375
+      },
+      {
+        "date": 1528896600,
+        "open": 192.4199981689453,
+        "high": 192.8800048828125,
+        "low": 190.44000244140625,
+        "close": 190.6999969482422,
+        "volume": 21638400,
+        "adjclose": 189.37277221679688
+      },
+      {
+        "date": 1528983000,
+        "open": 191.5500030517578,
+        "high": 191.57000732421875,
+        "low": 190.22000122070312,
+        "close": 190.8000030517578,
+        "volume": 21610100,
+        "adjclose": 189.47207641601562
+      },
+      {
+        "date": 1529069400,
+        "open": 190.02999877929688,
+        "high": 190.16000366210938,
+        "low": 188.25999450683594,
+        "close": 188.83999633789062,
+        "volume": 61719200,
+        "adjclose": 187.5257110595703
+      },
+      {
+        "date": 1529328600,
+        "open": 187.8800048828125,
+        "high": 189.22000122070312,
+        "low": 187.1999969482422,
+        "close": 188.74000549316406,
+        "volume": 18484900,
+        "adjclose": 187.42642211914062
+      },
+      {
+        "date": 1529415000,
+        "open": 185.13999938964844,
+        "high": 186.3300018310547,
+        "low": 183.4499969482422,
+        "close": 185.69000244140625,
+        "volume": 33578500,
+        "adjclose": 184.39764404296875
+      },
+      {
+        "date": 1529501400,
+        "open": 186.35000610351562,
+        "high": 187.1999969482422,
+        "low": 185.72999572753906,
+        "close": 186.5,
+        "volume": 20628700,
+        "adjclose": 185.20201110839844
+      },
+      {
+        "date": 1529587800,
+        "open": 187.25,
+        "high": 188.35000610351562,
+        "low": 184.94000244140625,
+        "close": 185.4600067138672,
+        "volume": 25711900,
+        "adjclose": 184.16925048828125
+      },
+      {
+        "date": 1529674200,
+        "open": 186.1199951171875,
+        "high": 186.14999389648438,
+        "low": 184.6999969482422,
+        "close": 184.9199981689453,
+        "volume": 27200400,
+        "adjclose": 183.63299560546875
+      },
+      {
+        "date": 1529933400,
+        "open": 183.39999389648438,
+        "high": 184.9199981689453,
+        "low": 180.72999572753906,
+        "close": 182.1699981689453,
+        "volume": 31663100,
+        "adjclose": 180.9021453857422
+      },
+      {
+        "date": 1530019800,
+        "open": 182.99000549316406,
+        "high": 186.52999877929688,
+        "low": 182.5399932861328,
+        "close": 184.42999267578125,
+        "volume": 24569200,
+        "adjclose": 183.1464080810547
+      },
+      {
+        "date": 1530106200,
+        "open": 185.22999572753906,
+        "high": 187.27999877929688,
+        "low": 184.02999877929688,
+        "close": 184.16000366210938,
+        "volume": 25285300,
+        "adjclose": 182.8782958984375
+      },
+      {
+        "date": 1530192600,
+        "open": 184.10000610351562,
+        "high": 186.2100067138672,
+        "low": 183.8000030517578,
+        "close": 185.5,
+        "volume": 17365200,
+        "adjclose": 184.20896911621094
+      },
+      {
+        "date": 1530279000,
+        "open": 186.2899932861328,
+        "high": 187.19000244140625,
+        "low": 182.91000366210938,
+        "close": 185.11000061035156,
+        "volume": 22737700,
+        "adjclose": 183.82168579101562
+      },
+      {
+        "date": 1530538200,
+        "open": 183.82000732421875,
+        "high": 187.3000030517578,
+        "low": 183.4199981689453,
+        "close": 187.17999267578125,
+        "volume": 17731300,
+        "adjclose": 185.87725830078125
+      },
+      {
+        "date": 1530624600,
+        "open": 187.7899932861328,
+        "high": 187.9499969482422,
+        "low": 183.5399932861328,
+        "close": 183.9199981689453,
+        "volume": 13954800,
+        "adjclose": 182.63995361328125
+      },
+      {
+        "date": 1530797400,
+        "open": 185.25999450683594,
+        "high": 186.41000366210938,
+        "low": 184.27999877929688,
+        "close": 185.39999389648438,
+        "volume": 16604200,
+        "adjclose": 184.10964965820312
+      },
+      {
+        "date": 1530883800,
+        "open": 185.4199981689453,
+        "high": 188.42999267578125,
+        "low": 185.1999969482422,
+        "close": 187.97000122070312,
+        "volume": 17485200,
+        "adjclose": 186.6617889404297
+      },
+      {
+        "date": 1531143000,
+        "open": 189.5,
+        "high": 190.67999267578125,
+        "low": 189.3000030517578,
+        "close": 190.5800018310547,
+        "volume": 19756600,
+        "adjclose": 189.2536163330078
+      },
+      {
+        "date": 1531229400,
+        "open": 190.7100067138672,
+        "high": 191.27999877929688,
+        "low": 190.17999267578125,
+        "close": 190.35000610351562,
+        "volume": 15939100,
+        "adjclose": 189.02520751953125
+      },
+      {
+        "date": 1531315800,
+        "open": 188.5,
+        "high": 189.77999877929688,
+        "low": 187.61000061035156,
+        "close": 187.8800048828125,
+        "volume": 18831500,
+        "adjclose": 186.57240295410156
+      },
+      {
+        "date": 1531402200,
+        "open": 189.52999877929688,
+        "high": 191.41000366210938,
+        "low": 189.30999755859375,
+        "close": 191.02999877929688,
+        "volume": 18041100,
+        "adjclose": 189.7004852294922
+      },
+      {
+        "date": 1531488600,
+        "open": 191.0800018310547,
+        "high": 191.83999633789062,
+        "low": 190.89999389648438,
+        "close": 191.3300018310547,
+        "volume": 12513900,
+        "adjclose": 189.99839782714844
+      },
+      {
+        "date": 1531747800,
+        "open": 191.52000427246094,
+        "high": 192.64999389648438,
+        "low": 190.4199981689453,
+        "close": 190.91000366210938,
+        "volume": 15043100,
+        "adjclose": 189.58131408691406
+      },
+      {
+        "date": 1531834200,
+        "open": 189.75,
+        "high": 191.8699951171875,
+        "low": 189.1999969482422,
+        "close": 191.4499969482422,
+        "volume": 15534500,
+        "adjclose": 190.1175537109375
+      },
+      {
+        "date": 1531920600,
+        "open": 191.77999877929688,
+        "high": 191.8000030517578,
+        "low": 189.92999267578125,
+        "close": 190.39999389648438,
+        "volume": 16393400,
+        "adjclose": 189.07485961914062
+      },
+      {
+        "date": 1532007000,
+        "open": 189.69000244140625,
+        "high": 192.5500030517578,
+        "low": 189.69000244140625,
+        "close": 191.8800048828125,
+        "volume": 20286800,
+        "adjclose": 190.54457092285156
+      },
+      {
+        "date": 1532093400,
+        "open": 191.77999877929688,
+        "high": 192.42999267578125,
+        "low": 190.1699981689453,
+        "close": 191.44000244140625,
+        "volume": 20676200,
+        "adjclose": 190.10763549804688
+      },
+      {
+        "date": 1532352600,
+        "open": 190.67999267578125,
+        "high": 191.9600067138672,
+        "low": 189.55999755859375,
+        "close": 191.61000061035156,
+        "volume": 15989400,
+        "adjclose": 190.2764434814453
+      },
+      {
+        "date": 1532439000,
+        "open": 192.4499969482422,
+        "high": 193.66000366210938,
+        "low": 192.0500030517578,
+        "close": 193,
+        "volume": 18697900,
+        "adjclose": 191.65676879882812
+      },
+      {
+        "date": 1532525400,
+        "open": 193.05999755859375,
+        "high": 194.85000610351562,
+        "low": 192.42999267578125,
+        "close": 194.82000732421875,
+        "volume": 16709900,
+        "adjclose": 193.464111328125
+      },
+      {
+        "date": 1532611800,
+        "open": 194.61000061035156,
+        "high": 195.9600067138672,
+        "low": 193.61000061035156,
+        "close": 194.2100067138672,
+        "volume": 19076000,
+        "adjclose": 192.8583526611328
+      },
+      {
+        "date": 1532698200,
+        "open": 194.99000549316406,
+        "high": 195.19000244140625,
+        "low": 190.10000610351562,
+        "close": 190.97999572753906,
+        "volume": 24024000,
+        "adjclose": 189.65081787109375
+      },
+      {
+        "date": 1532957400,
+        "open": 191.89999389648438,
+        "high": 192.1999969482422,
+        "low": 189.07000732421875,
+        "close": 189.91000366210938,
+        "volume": 21029500,
+        "adjclose": 188.58827209472656
+      },
+      {
+        "date": 1533043800,
+        "open": 190.3000030517578,
+        "high": 192.13999938964844,
+        "low": 189.33999633789062,
+        "close": 190.2899932861328,
+        "volume": 39373000,
+        "adjclose": 188.9656219482422
+      },
+      {
+        "date": 1533130200,
+        "open": 199.1300048828125,
+        "high": 201.75999450683594,
+        "low": 197.30999755859375,
+        "close": 201.5,
+        "volume": 67935700,
+        "adjclose": 200.0976104736328
+      },
+      {
+        "date": 1533216600,
+        "open": 200.5800018310547,
+        "high": 208.3800048828125,
+        "low": 200.35000610351562,
+        "close": 207.38999938964844,
+        "volume": 62404000,
+        "adjclose": 205.94662475585938
+      },
+      {
+        "date": 1533303000,
+        "open": 207.02999877929688,
+        "high": 208.74000549316406,
+        "low": 205.47999572753906,
+        "close": 207.99000549316406,
+        "volume": 33447400,
+        "adjclose": 206.54244995117188
+      },
+      {
+        "date": 1533562200,
+        "open": 208,
+        "high": 209.25,
+        "low": 207.07000732421875,
+        "close": 209.07000732421875,
+        "volume": 25425400,
+        "adjclose": 207.61492919921875
+      },
+      {
+        "date": 1533648600,
+        "open": 209.32000732421875,
+        "high": 209.5,
+        "low": 206.75999450683594,
+        "close": 207.11000061035156,
+        "volume": 25587400,
+        "adjclose": 205.6685791015625
+      },
+      {
+        "date": 1533735000,
+        "open": 206.0500030517578,
+        "high": 207.80999755859375,
+        "low": 204.52000427246094,
+        "close": 207.25,
+        "volume": 22525500,
+        "adjclose": 205.80760192871094
+      },
+      {
+        "date": 1533821400,
+        "open": 207.27999877929688,
+        "high": 209.77999877929688,
+        "low": 207.1999969482422,
+        "close": 208.8800048828125,
+        "volume": 23469200,
+        "adjclose": 207.42625427246094
+      },
+      {
+        "date": 1533907800,
+        "open": 207.36000061035156,
+        "high": 209.10000610351562,
+        "low": 206.6699981689453,
+        "close": 207.52999877929688,
+        "volume": 24611200,
+        "adjclose": 206.80841064453125
+      },
+      {
+        "date": 1534167000,
+        "open": 207.6999969482422,
+        "high": 210.9499969482422,
+        "low": 207.6999969482422,
+        "close": 208.8699951171875,
+        "volume": 25869100,
+        "adjclose": 208.1437530517578
+      },
+      {
+        "date": 1534253400,
+        "open": 210.16000366210938,
+        "high": 210.55999755859375,
+        "low": 208.25999450683594,
+        "close": 209.75,
+        "volume": 20748000,
+        "adjclose": 209.02069091796875
+      },
+      {
+        "date": 1534339800,
+        "open": 209.22000122070312,
+        "high": 210.74000549316406,
+        "low": 208.3300018310547,
+        "close": 210.24000549316406,
+        "volume": 28807600,
+        "adjclose": 209.5089874267578
+      },
+      {
+        "date": 1534426200,
+        "open": 211.75,
+        "high": 213.80999755859375,
+        "low": 211.47000122070312,
+        "close": 213.32000732421875,
+        "volume": 28500400,
+        "adjclose": 212.5782928466797
+      },
+      {
+        "date": 1534512600,
+        "open": 213.44000244140625,
+        "high": 217.9499969482422,
+        "low": 213.16000366210938,
+        "close": 217.5800018310547,
+        "volume": 35427000,
+        "adjclose": 216.82347106933594
+      },
+      {
+        "date": 1534771800,
+        "open": 218.10000610351562,
+        "high": 219.17999267578125,
+        "low": 215.11000061035156,
+        "close": 215.4600067138672,
+        "volume": 30287700,
+        "adjclose": 214.71084594726562
+      },
+      {
+        "date": 1534858200,
+        "open": 216.8000030517578,
+        "high": 217.19000244140625,
+        "low": 214.02999877929688,
+        "close": 215.0399932861328,
+        "volume": 26159800,
+        "adjclose": 214.29229736328125
+      },
+      {
+        "date": 1534944600,
+        "open": 214.10000610351562,
+        "high": 216.36000061035156,
+        "low": 213.83999633789062,
+        "close": 215.0500030517578,
+        "volume": 19018100,
+        "adjclose": 214.30226135253906
+      },
+      {
+        "date": 1535031000,
+        "open": 214.64999389648438,
+        "high": 217.0500030517578,
+        "low": 214.60000610351562,
+        "close": 215.49000549316406,
+        "volume": 18883200,
+        "adjclose": 214.74073791503906
+      },
+      {
+        "date": 1535117400,
+        "open": 216.60000610351562,
+        "high": 216.89999389648438,
+        "low": 215.11000061035156,
+        "close": 216.16000366210938,
+        "volume": 18476400,
+        "adjclose": 215.4084014892578
+      },
+      {
+        "date": 1535376600,
+        "open": 217.14999389648438,
+        "high": 218.74000549316406,
+        "low": 216.3300018310547,
+        "close": 217.94000244140625,
+        "volume": 20525100,
+        "adjclose": 217.18222045898438
+      },
+      {
+        "date": 1535463000,
+        "open": 219.00999450683594,
+        "high": 220.5399932861328,
+        "low": 218.9199981689453,
+        "close": 219.6999969482422,
+        "volume": 22776800,
+        "adjclose": 218.93609619140625
+      },
+      {
+        "date": 1535549400,
+        "open": 220.14999389648438,
+        "high": 223.49000549316406,
+        "low": 219.41000366210938,
+        "close": 222.97999572753906,
+        "volume": 27254800,
+        "adjclose": 222.20468139648438
+      },
+      {
+        "date": 1535635800,
+        "open": 223.25,
+        "high": 228.25999450683594,
+        "low": 222.39999389648438,
+        "close": 225.02999877929688,
+        "volume": 48793800,
+        "adjclose": 224.24755859375
+      },
+      {
+        "date": 1535722200,
+        "open": 226.50999450683594,
+        "high": 228.8699951171875,
+        "low": 226,
+        "close": 227.6300048828125,
+        "volume": 43340100,
+        "adjclose": 226.83853149414062
+      },
+      {
+        "date": 1536067800,
+        "open": 228.41000366210938,
+        "high": 229.17999267578125,
+        "low": 226.6300048828125,
+        "close": 228.36000061035156,
+        "volume": 27390100,
+        "adjclose": 227.56597900390625
+      },
+      {
+        "date": 1536154200,
+        "open": 228.99000549316406,
+        "high": 229.6699981689453,
+        "low": 225.10000610351562,
+        "close": 226.8699951171875,
+        "volume": 33333000,
+        "adjclose": 226.08116149902344
+      },
+      {
+        "date": 1536240600,
+        "open": 226.22999572753906,
+        "high": 227.35000610351562,
+        "low": 221.3000030517578,
+        "close": 223.10000610351562,
+        "volume": 34290000,
+        "adjclose": 222.32427978515625
+      },
+      {
+        "date": 1536327000,
+        "open": 221.85000610351562,
+        "high": 225.3699951171875,
+        "low": 220.7100067138672,
+        "close": 221.3000030517578,
+        "volume": 37619800,
+        "adjclose": 220.53053283691406
+      },
+      {
+        "date": 1536586200,
+        "open": 220.9499969482422,
+        "high": 221.85000610351562,
+        "low": 216.47000122070312,
+        "close": 218.3300018310547,
+        "volume": 39516500,
+        "adjclose": 217.57086181640625
+      },
+      {
+        "date": 1536672600,
+        "open": 218.00999450683594,
+        "high": 224.3000030517578,
+        "low": 216.55999755859375,
+        "close": 223.85000610351562,
+        "volume": 35749000,
+        "adjclose": 223.07167053222656
+      },
+      {
+        "date": 1536759000,
+        "open": 224.94000244140625,
+        "high": 225,
+        "low": 219.83999633789062,
+        "close": 221.07000732421875,
+        "volume": 49278700,
+        "adjclose": 220.3013458251953
+      },
+      {
+        "date": 1536845400,
+        "open": 223.52000427246094,
+        "high": 228.35000610351562,
+        "low": 222.57000732421875,
+        "close": 226.41000366210938,
+        "volume": 41706400,
+        "adjclose": 225.62277221679688
+      },
+      {
+        "date": 1536931800,
+        "open": 225.75,
+        "high": 226.83999633789062,
+        "low": 222.52000427246094,
+        "close": 223.83999633789062,
+        "volume": 31999300,
+        "adjclose": 223.0616912841797
+      },
+      {
+        "date": 1537191000,
+        "open": 222.14999389648438,
+        "high": 222.9499969482422,
+        "low": 217.27000427246094,
+        "close": 217.8800048828125,
+        "volume": 37195100,
+        "adjclose": 217.12242126464844
+      },
+      {
+        "date": 1537277400,
+        "open": 217.7899932861328,
+        "high": 221.85000610351562,
+        "low": 217.1199951171875,
+        "close": 218.24000549316406,
+        "volume": 31571700,
+        "adjclose": 217.48117065429688
+      },
+      {
+        "date": 1537363800,
+        "open": 218.5,
+        "high": 219.6199951171875,
+        "low": 215.3000030517578,
+        "close": 218.3699951171875,
+        "volume": 27123800,
+        "adjclose": 217.6107177734375
+      },
+      {
+        "date": 1537450200,
+        "open": 220.24000549316406,
+        "high": 222.27999877929688,
+        "low": 219.14999389648438,
+        "close": 220.02999877929688,
+        "volume": 26608800,
+        "adjclose": 219.26495361328125
+      },
+      {
+        "date": 1537536600,
+        "open": 220.77999877929688,
+        "high": 221.36000061035156,
+        "low": 217.2899932861328,
+        "close": 217.66000366210938,
+        "volume": 96246700,
+        "adjclose": 216.9031982421875
+      },
+      {
+        "date": 1537795800,
+        "open": 216.82000732421875,
+        "high": 221.25999450683594,
+        "low": 216.6300048828125,
+        "close": 220.7899932861328,
+        "volume": 27693400,
+        "adjclose": 220.0222930908203
+      },
+      {
+        "date": 1537882200,
+        "open": 219.75,
+        "high": 222.82000732421875,
+        "low": 219.6999969482422,
+        "close": 222.19000244140625,
+        "volume": 24554400,
+        "adjclose": 221.4174346923828
+      },
+      {
+        "date": 1537968600,
+        "open": 221,
+        "high": 223.75,
+        "low": 219.75999450683594,
+        "close": 220.4199981689453,
+        "volume": 23984700,
+        "adjclose": 219.65359497070312
+      },
+      {
+        "date": 1538055000,
+        "open": 223.82000732421875,
+        "high": 226.44000244140625,
+        "low": 223.5399932861328,
+        "close": 224.9499969482422,
+        "volume": 30181200,
+        "adjclose": 224.16783142089844
+      },
+      {
+        "date": 1538141400,
+        "open": 224.7899932861328,
+        "high": 225.83999633789062,
+        "low": 224.02000427246094,
+        "close": 225.74000549316406,
+        "volume": 22929400,
+        "adjclose": 224.95509338378906
+      },
+      {
+        "date": 1538400600,
+        "open": 227.9499969482422,
+        "high": 229.4199981689453,
+        "low": 226.35000610351562,
+        "close": 227.25999450683594,
+        "volume": 23600800,
+        "adjclose": 226.4698028564453
+      },
+      {
+        "date": 1538487000,
+        "open": 227.25,
+        "high": 230,
+        "low": 226.6300048828125,
+        "close": 229.27999877929688,
+        "volume": 24788200,
+        "adjclose": 228.4827880859375
+      },
+      {
+        "date": 1538573400,
+        "open": 230.0500030517578,
+        "high": 233.47000122070312,
+        "low": 229.77999877929688,
+        "close": 232.07000732421875,
+        "volume": 28654800,
+        "adjclose": 231.26309204101562
+      },
+      {
+        "date": 1538659800,
+        "open": 230.77999877929688,
+        "high": 232.35000610351562,
+        "low": 226.72999572753906,
+        "close": 227.99000549316406,
+        "volume": 32042000,
+        "adjclose": 227.19728088378906
+      },
+      {
+        "date": 1538746200,
+        "open": 227.9600067138672,
+        "high": 228.41000366210938,
+        "low": 220.5800018310547,
+        "close": 224.2899932861328,
+        "volume": 33580500,
+        "adjclose": 223.5101318359375
+      },
+      {
+        "date": 1539005400,
+        "open": 222.2100067138672,
+        "high": 224.8000030517578,
+        "low": 220.1999969482422,
+        "close": 223.77000427246094,
+        "volume": 29663900,
+        "adjclose": 222.991943359375
+      },
+      {
+        "date": 1539091800,
+        "open": 223.63999938964844,
+        "high": 227.27000427246094,
+        "low": 222.25,
+        "close": 226.8699951171875,
+        "volume": 26891000,
+        "adjclose": 226.08116149902344
+      },
+      {
+        "date": 1539178200,
+        "open": 225.4600067138672,
+        "high": 226.35000610351562,
+        "low": 216.0500030517578,
+        "close": 216.36000061035156,
+        "volume": 41990600,
+        "adjclose": 215.6077117919922
+      },
+      {
+        "date": 1539264600,
+        "open": 214.52000427246094,
+        "high": 219.5,
+        "low": 212.32000732421875,
+        "close": 214.4499969482422,
+        "volume": 53124400,
+        "adjclose": 213.704345703125
+      },
+      {
+        "date": 1539351000,
+        "open": 220.4199981689453,
+        "high": 222.8800048828125,
+        "low": 216.83999633789062,
+        "close": 222.11000061035156,
+        "volume": 40337900,
+        "adjclose": 221.3377227783203
+      },
+      {
+        "date": 1539610200,
+        "open": 221.16000366210938,
+        "high": 221.8300018310547,
+        "low": 217.27000427246094,
+        "close": 217.36000061035156,
+        "volume": 30791000,
+        "adjclose": 216.60423278808594
+      },
+      {
+        "date": 1539696600,
+        "open": 218.92999267578125,
+        "high": 222.99000549316406,
+        "low": 216.75999450683594,
+        "close": 222.14999389648438,
+        "volume": 29184000,
+        "adjclose": 221.3775634765625
+      },
+      {
+        "date": 1539783000,
+        "open": 222.3000030517578,
+        "high": 222.63999938964844,
+        "low": 219.33999633789062,
+        "close": 221.19000244140625,
+        "volume": 22885400,
+        "adjclose": 220.42091369628906
+      },
+      {
+        "date": 1539869400,
+        "open": 217.86000061035156,
+        "high": 219.74000549316406,
+        "low": 213,
+        "close": 216.02000427246094,
+        "volume": 32581300,
+        "adjclose": 215.26889038085938
+      },
+      {
+        "date": 1539955800,
+        "open": 218.05999755859375,
+        "high": 221.25999450683594,
+        "low": 217.42999267578125,
+        "close": 219.30999755859375,
+        "volume": 33078700,
+        "adjclose": 218.54745483398438
+      },
+      {
+        "date": 1540215000,
+        "open": 219.7899932861328,
+        "high": 223.36000061035156,
+        "low": 218.94000244140625,
+        "close": 220.64999389648438,
+        "volume": 28792100,
+        "adjclose": 219.88278198242188
+      },
+      {
+        "date": 1540301400,
+        "open": 215.8300018310547,
+        "high": 223.25,
+        "low": 214.6999969482422,
+        "close": 222.72999572753906,
+        "volume": 38767800,
+        "adjclose": 221.95555114746094
+      },
+      {
+        "date": 1540387800,
+        "open": 222.60000610351562,
+        "high": 224.22999572753906,
+        "low": 214.5399932861328,
+        "close": 215.08999633789062,
+        "volume": 40925500,
+        "adjclose": 214.3421173095703
+      },
+      {
+        "date": 1540474200,
+        "open": 217.7100067138672,
+        "high": 221.3800048828125,
+        "low": 216.75,
+        "close": 219.8000030517578,
+        "volume": 29855800,
+        "adjclose": 219.03575134277344
+      },
+      {
+        "date": 1540560600,
+        "open": 215.89999389648438,
+        "high": 220.19000244140625,
+        "low": 212.6699981689453,
+        "close": 216.3000030517578,
+        "volume": 47258400,
+        "adjclose": 215.54791259765625
+      },
+      {
+        "date": 1540819800,
+        "open": 219.19000244140625,
+        "high": 219.69000244140625,
+        "low": 206.08999633789062,
+        "close": 212.24000549316406,
+        "volume": 45935500,
+        "adjclose": 211.50204467773438
+      },
+      {
+        "date": 1540906200,
+        "open": 211.14999389648438,
+        "high": 215.17999267578125,
+        "low": 209.27000427246094,
+        "close": 213.3000030517578,
+        "volume": 36660000,
+        "adjclose": 212.558349609375
+      },
+      {
+        "date": 1540992600,
+        "open": 216.8800048828125,
+        "high": 220.4499969482422,
+        "low": 216.6199951171875,
+        "close": 218.86000061035156,
+        "volume": 38358900,
+        "adjclose": 218.09901428222656
+      },
+      {
+        "date": 1541079000,
+        "open": 219.0500030517578,
+        "high": 222.36000061035156,
+        "low": 216.80999755859375,
+        "close": 222.22000122070312,
+        "volume": 58323200,
+        "adjclose": 221.44732666015625
+      },
+      {
+        "date": 1541165400,
+        "open": 209.5500030517578,
+        "high": 213.64999389648438,
+        "low": 205.42999267578125,
+        "close": 207.47999572753906,
+        "volume": 91328700,
+        "adjclose": 206.75857543945312
+      },
+      {
+        "date": 1541428200,
+        "open": 204.3000030517578,
+        "high": 204.38999938964844,
+        "low": 198.1699981689453,
+        "close": 201.58999633789062,
+        "volume": 66163700,
+        "adjclose": 200.88905334472656
+      },
+      {
+        "date": 1541514600,
+        "open": 201.9199981689453,
+        "high": 204.72000122070312,
+        "low": 201.69000244140625,
+        "close": 203.77000427246094,
+        "volume": 31882900,
+        "adjclose": 203.06149291992188
+      },
+      {
+        "date": 1541601000,
+        "open": 205.97000122070312,
+        "high": 210.05999755859375,
+        "low": 204.1300048828125,
+        "close": 209.9499969482422,
+        "volume": 33424400,
+        "adjclose": 209.21998596191406
+      },
+      {
+        "date": 1541687400,
+        "open": 209.97999572753906,
+        "high": 210.1199951171875,
+        "low": 206.75,
+        "close": 208.49000549316406,
+        "volume": 25362600,
+        "adjclose": 208.49000549316406
+      },
+      {
+        "date": 1541773800,
+        "open": 205.5500030517578,
+        "high": 206.00999450683594,
+        "low": 202.25,
+        "close": 204.47000122070312,
+        "volume": 34365800,
+        "adjclose": 204.47000122070312
+      },
+      {
+        "date": 1542033000,
+        "open": 199,
+        "high": 199.85000610351562,
+        "low": 193.7899932861328,
+        "close": 194.1699981689453,
+        "volume": 51135500,
+        "adjclose": 194.1699981689453
+      },
+      {
+        "date": 1542119400,
+        "open": 191.6300048828125,
+        "high": 197.17999267578125,
+        "low": 191.4499969482422,
+        "close": 192.22999572753906,
+        "volume": 46882900,
+        "adjclose": 192.22999572753906
+      },
+      {
+        "date": 1542205800,
+        "open": 193.89999389648438,
+        "high": 194.47999572753906,
+        "low": 185.92999267578125,
+        "close": 186.8000030517578,
+        "volume": 60801000,
+        "adjclose": 186.8000030517578
+      },
+      {
+        "date": 1542292200,
+        "open": 188.38999938964844,
+        "high": 191.97000122070312,
+        "low": 186.89999389648438,
+        "close": 191.41000366210938,
+        "volume": 46478800,
+        "adjclose": 191.41000366210938
+      },
+      {
+        "date": 1542378600,
+        "open": 190.5,
+        "high": 194.97000122070312,
+        "low": 189.4600067138672,
+        "close": 193.52999877929688,
+        "volume": 36928300,
+        "adjclose": 193.52999877929688
+      },
+      {
+        "date": 1542637800,
+        "open": 190,
+        "high": 190.6999969482422,
+        "low": 184.99000549316406,
+        "close": 185.86000061035156,
+        "volume": 41925300,
+        "adjclose": 185.86000061035156
+      },
+      {
+        "date": 1542724200,
+        "open": 178.3699951171875,
+        "high": 181.47000122070312,
+        "low": 175.50999450683594,
+        "close": 176.97999572753906,
+        "volume": 67825200,
+        "adjclose": 176.97999572753906
+      },
+      {
+        "date": 1542810600,
+        "open": 179.72999572753906,
+        "high": 180.27000427246094,
+        "low": 176.5500030517578,
+        "close": 176.77999877929688,
+        "volume": 31124200,
+        "adjclose": 176.77999877929688
+      },
+      {
+        "date": 1542983400,
+        "open": 174.94000244140625,
+        "high": 176.60000610351562,
+        "low": 172.10000610351562,
+        "close": 172.2899932861328,
+        "volume": 23624000,
+        "adjclose": 172.2899932861328
+      },
+      {
+        "date": 1543242600,
+        "open": 174.24000549316406,
+        "high": 174.9499969482422,
+        "low": 170.25999450683594,
+        "close": 174.6199951171875,
+        "volume": 44998500,
+        "adjclose": 174.6199951171875
+      },
+      {
+        "date": 1543329000,
+        "open": 171.50999450683594,
+        "high": 174.77000427246094,
+        "low": 170.8800048828125,
+        "close": 174.24000549316406,
+        "volume": 41387400,
+        "adjclose": 174.24000549316406
+      },
+      {
+        "date": 1543415400,
+        "open": 176.72999572753906,
+        "high": 181.2899932861328,
+        "low": 174.92999267578125,
+        "close": 180.94000244140625,
+        "volume": 46062500,
+        "adjclose": 180.94000244140625
+      },
+      {
+        "date": 1543501800,
+        "open": 182.66000366210938,
+        "high": 182.8000030517578,
+        "low": 177.6999969482422,
+        "close": 179.5500030517578,
+        "volume": 41770000,
+        "adjclose": 179.5500030517578
+      },
+      {
+        "date": 1543588200,
+        "open": 180.2899932861328,
+        "high": 180.3300018310547,
+        "low": 177.02999877929688,
+        "close": 178.5800018310547,
+        "volume": 39531500,
+        "adjclose": 178.5800018310547
+      },
+      {
+        "date": 1543847400,
+        "open": 184.4600067138672,
+        "high": 184.94000244140625,
+        "low": 181.2100067138672,
+        "close": 184.82000732421875,
+        "volume": 40802500,
+        "adjclose": 184.82000732421875
+      },
+      {
+        "date": 1543933800,
+        "open": 180.9499969482422,
+        "high": 182.38999938964844,
+        "low": 176.27000427246094,
+        "close": 176.69000244140625,
+        "volume": 41344300,
+        "adjclose": 176.69000244140625
+      },
+      {
+        "date": 1544106600,
+        "open": 171.75999450683594,
+        "high": 174.77999877929688,
+        "low": 170.4199981689453,
+        "close": 174.72000122070312,
+        "volume": 43098400,
+        "adjclose": 174.72000122070312
+      },
+      {
+        "date": 1544193000,
+        "open": 173.49000549316406,
+        "high": 174.49000549316406,
+        "low": 168.3000030517578,
+        "close": 168.49000549316406,
+        "volume": 42281600,
+        "adjclose": 168.49000549316406
+      },
+      {
+        "date": 1544452200,
+        "open": 165,
+        "high": 170.08999633789062,
+        "low": 163.3300018310547,
+        "close": 169.60000610351562,
+        "volume": 62026000,
+        "adjclose": 169.60000610351562
+      },
+      {
+        "date": 1544538600,
+        "open": 171.66000366210938,
+        "high": 171.7899932861328,
+        "low": 167,
+        "close": 168.6300048828125,
+        "volume": 47281700,
+        "adjclose": 168.6300048828125
+      },
+      {
+        "date": 1544625000,
+        "open": 170.39999389648438,
+        "high": 171.9199981689453,
+        "low": 169.02000427246094,
+        "close": 169.10000610351562,
+        "volume": 35627700,
+        "adjclose": 169.10000610351562
+      },
+      {
+        "date": 1544711400,
+        "open": 170.49000549316406,
+        "high": 172.57000732421875,
+        "low": 169.5500030517578,
+        "close": 170.9499969482422,
+        "volume": 31898600,
+        "adjclose": 170.9499969482422
+      },
+      {
+        "date": 1544797800,
+        "open": 169,
+        "high": 169.0800018310547,
+        "low": 165.27999877929688,
+        "close": 165.47999572753906,
+        "volume": 40703700,
+        "adjclose": 165.47999572753906
+      },
+      {
+        "date": 1545057000,
+        "open": 165.4499969482422,
+        "high": 168.35000610351562,
+        "low": 162.72999572753906,
+        "close": 163.94000244140625,
+        "volume": 44287900,
+        "adjclose": 163.94000244140625
+      },
+      {
+        "date": 1545143400,
+        "open": 165.3800048828125,
+        "high": 167.52999877929688,
+        "low": 164.38999938964844,
+        "close": 166.07000732421875,
+        "volume": 33841500,
+        "adjclose": 166.07000732421875
+      },
+      {
+        "date": 1545229800,
+        "open": 166,
+        "high": 167.4499969482422,
+        "low": 159.08999633789062,
+        "close": 160.88999938964844,
+        "volume": 49047300,
+        "adjclose": 160.88999938964844
+      },
+      {
+        "date": 1545316200,
+        "open": 160.39999389648438,
+        "high": 162.11000061035156,
+        "low": 155.3000030517578,
+        "close": 156.8300018310547,
+        "volume": 64773000,
+        "adjclose": 156.8300018310547
+      },
+      {
+        "date": 1545402600,
+        "open": 156.86000061035156,
+        "high": 158.16000366210938,
+        "low": 149.6300048828125,
+        "close": 150.72999572753906,
+        "volume": 95744600,
+        "adjclose": 150.72999572753906
+      },
+      {
+        "date": 1545661800,
+        "open": 148.14999389648438,
+        "high": 151.5500030517578,
+        "low": 146.58999633789062,
+        "close": 146.8300018310547,
+        "volume": 37169200,
+        "adjclose": 146.8300018310547
+      },
+      {
+        "date": 1545834600,
+        "open": 148.3000030517578,
+        "high": 157.22999572753906,
+        "low": 146.72000122070312,
+        "close": 157.1699981689453,
+        "volume": 58582500,
+        "adjclose": 157.1699981689453
+      },
+      {
+        "date": 1545921000,
+        "open": 155.83999633789062,
+        "high": 156.77000427246094,
+        "low": 150.07000732421875,
+        "close": 156.14999389648438,
+        "volume": 53117100,
+        "adjclose": 156.14999389648438
+      },
+      {
+        "date": 1546007400,
+        "open": 157.5,
+        "high": 158.52000427246094,
+        "low": 154.5500030517578,
+        "close": 156.22999572753906,
+        "volume": 42291400,
+        "adjclose": 156.22999572753906
+      },
+      {
+        "date": 1546266600,
+        "open": 158.52999877929688,
+        "high": 159.36000061035156,
+        "low": 156.47999572753906,
+        "close": 157.74000549316406,
+        "volume": 35003500,
+        "adjclose": 157.74000549316406
+      },
+      {
+        "date": 1546439400,
+        "open": 154.88999938964844,
+        "high": 158.85000610351562,
+        "low": 154.22999572753906,
+        "close": 157.9199981689453,
+        "volume": 37039700,
+        "adjclose": 157.9199981689453
+      },
+      {
+        "date": 1546525800,
+        "open": 143.97999572753906,
+        "high": 145.72000122070312,
+        "low": 142,
+        "close": 142.19000244140625,
+        "volume": 91312200,
+        "adjclose": 142.19000244140625
+      },
+      {
+        "date": 1546612200,
+        "open": 144.52999877929688,
+        "high": 148.5500030517578,
+        "low": 143.8000030517578,
+        "close": 148.25999450683594,
+        "volume": 58607100,
+        "adjclose": 148.25999450683594
+      },
+      {
+        "date": 1546871400,
+        "open": 148.6999969482422,
+        "high": 148.8300018310547,
+        "low": 145.89999389648438,
+        "close": 147.92999267578125,
+        "volume": 54777800,
+        "adjclose": 147.92999267578125
+      },
+      {
+        "date": 1546957800,
+        "open": 149.55999755859375,
+        "high": 151.82000732421875,
+        "low": 148.52000427246094,
+        "close": 150.75,
+        "volume": 41025300,
+        "adjclose": 150.75
+      },
+      {
+        "date": 1547044200,
+        "open": 151.2899932861328,
+        "high": 154.52999877929688,
+        "low": 149.6300048828125,
+        "close": 153.30999755859375,
+        "volume": 45099100,
+        "adjclose": 153.30999755859375
+      },
+      {
+        "date": 1547130600,
+        "open": 152.5,
+        "high": 153.97000122070312,
+        "low": 150.86000061035156,
+        "close": 153.8000030517578,
+        "volume": 35780700,
+        "adjclose": 153.8000030517578
+      },
+      {
+        "date": 1547217000,
+        "open": 152.8800048828125,
+        "high": 153.6999969482422,
+        "low": 151.50999450683594,
+        "close": 152.2899932861328,
+        "volume": 27023200,
+        "adjclose": 152.2899932861328
+      },
+      {
+        "date": 1547476200,
+        "open": 150.85000610351562,
+        "high": 151.27000427246094,
+        "low": 149.22000122070312,
+        "close": 150,
+        "volume": 32439200,
+        "adjclose": 150
+      },
+      {
+        "date": 1547562600,
+        "open": 150.27000427246094,
+        "high": 153.38999938964844,
+        "low": 150.0500030517578,
+        "close": 153.07000732421875,
+        "volume": 28710900,
+        "adjclose": 153.07000732421875
+      },
+      {
+        "date": 1547649000,
+        "open": 153.0800018310547,
+        "high": 155.8800048828125,
+        "low": 153,
+        "close": 154.94000244140625,
+        "volume": 30569700,
+        "adjclose": 154.94000244140625
+      },
+      {
+        "date": 1547735400,
+        "open": 154.1999969482422,
+        "high": 157.66000366210938,
+        "low": 153.25999450683594,
+        "close": 155.86000061035156,
+        "volume": 29821200,
+        "adjclose": 155.86000061035156
+      },
+      {
+        "date": 1547821800,
+        "open": 157.5,
+        "high": 157.8800048828125,
+        "low": 155.97999572753906,
+        "close": 156.82000732421875,
+        "volume": 33751000,
+        "adjclose": 156.82000732421875
+      },
+      {
+        "date": 1548167400,
+        "open": 156.41000366210938,
+        "high": 156.72999572753906,
+        "low": 152.6199951171875,
+        "close": 153.3000030517578,
+        "volume": 30394000,
+        "adjclose": 153.3000030517578
+      },
+      {
+        "date": 1548253800,
+        "open": 154.14999389648438,
+        "high": 155.13999938964844,
+        "low": 151.6999969482422,
+        "close": 153.9199981689453,
+        "volume": 23130600,
+        "adjclose": 153.9199981689453
+      },
+      {
+        "date": 1548340200,
+        "open": 154.11000061035156,
+        "high": 154.47999572753906,
+        "low": 151.74000549316406,
+        "close": 152.6999969482422,
+        "volume": 25441500,
+        "adjclose": 152.6999969482422
+      },
+      {
+        "date": 1548426600,
+        "open": 155.47999572753906,
+        "high": 158.1300048828125,
+        "low": 154.32000732421875,
+        "close": 157.75999450683594,
+        "volume": 33535500,
+        "adjclose": 157.75999450683594
+      },
+      {
+        "date": 1548685800,
+        "open": 155.7899932861328,
+        "high": 156.3300018310547,
+        "low": 153.66000366210938,
+        "close": 156.3000030517578,
+        "volume": 26192100,
+        "adjclose": 156.3000030517578
+      },
+      {
+        "date": 1548772200,
+        "open": 156.25,
+        "high": 158.1300048828125,
+        "low": 154.11000061035156,
+        "close": 154.67999267578125,
+        "volume": 41587200,
+        "adjclose": 154.67999267578125
+      },
+      {
+        "date": 1548858600,
+        "open": 163.25,
+        "high": 166.14999389648438,
+        "low": 160.22999572753906,
+        "close": 165.25,
+        "volume": 61109800,
+        "adjclose": 165.25
+      },
+      {
+        "date": 1548945000,
+        "open": 166.11000061035156,
+        "high": 169,
+        "low": 164.55999755859375,
+        "close": 166.44000244140625,
+        "volume": 40739600,
+        "adjclose": 166.44000244140625
+      },
+      {
+        "date": 1549031400,
+        "open": 166.9600067138672,
+        "high": 168.97999572753906,
+        "low": 165.92999267578125,
+        "close": 166.52000427246094,
+        "volume": 32668100,
+        "adjclose": 166.52000427246094
+      },
+      {
+        "date": 1549290600,
+        "open": 167.41000366210938,
+        "high": 171.66000366210938,
+        "low": 167.27999877929688,
+        "close": 171.25,
+        "volume": 31495500,
+        "adjclose": 171.25
+      },
+      {
+        "date": 1549377000,
+        "open": 172.86000061035156,
+        "high": 175.0800018310547,
+        "low": 172.35000610351562,
+        "close": 174.17999267578125,
+        "volume": 36101600,
+        "adjclose": 174.17999267578125
+      },
+      {
+        "date": 1549463400,
+        "open": 174.64999389648438,
+        "high": 175.57000732421875,
+        "low": 172.85000610351562,
+        "close": 174.24000549316406,
+        "volume": 28239600,
+        "adjclose": 174.24000549316406
+      },
+      {
+        "date": 1549549800,
+        "open": 172.39999389648438,
+        "high": 173.94000244140625,
+        "low": 170.33999633789062,
+        "close": 170.94000244140625,
+        "volume": 31688100,
+        "adjclose": 170.94000244140625
+      },
+      {
+        "date": 1549641977,
+        "open": 168.99000549316406,
+        "high": 170.36000061035156,
+        "low": 168.4199981689453,
+        "close": 169.3800048828125,
+        "volume": 8888847,
+        "adjclose": 169.3800048828125
+      }
+    ]
+  }
+}

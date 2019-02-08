@@ -92,6 +92,14 @@ This package do not offer any customized exceptions. However, all exceptions rai
 
 All the exceptions raised outside crawling will still interrupt the program.
 
+## Data Format
+
+Almost raw json data from yahoo finance(parsed from the webpage source code).
+
+To see a sample please click [here](https://github.com/nichujie/rookie-stock-crawler/blob/master/json/AAPL%202019-02-09%2000:06:21.json).
+
+Data format conversion tools will be introduced in later versions.
+
 ## Special Instructions
 
 Yahoo finance no longer maintain its API or YQL query. As a result, we cannot know the exact limit of accesing frequency. The crawler actually get the data by directly sending request to the server, which is exactly the same as you open a browser and visit the yahoo website.

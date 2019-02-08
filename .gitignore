@@ -8,3 +8,4 @@ rookie_stock_crawler_nichujie\.egg-info/
 *.pyc
 
 build/lib/
+dist/

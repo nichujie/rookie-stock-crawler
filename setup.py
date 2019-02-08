@@ -4,8 +4,8 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="rookie-stock-crawler-nichujie",
-    version="0.0.3",
+    name="rookie-stock-crawler",
+    version="0.1.0",
     author="Cheney Ni",
     author_email="ncj19991213@126.com",
     description="A light weight tool to crawl stock data from yahoo finance.",
