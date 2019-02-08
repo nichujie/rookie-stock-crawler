@@ -62,7 +62,7 @@ class Stock:
             print('[Error] ' + self.symbol)
             print(str(e))
             self.status = 1
-            return False
+            return True
 
     # Save the result
     def save(self, path='./json'):

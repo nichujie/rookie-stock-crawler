@@ -8,13 +8,19 @@ import time
 from multiprocessing import Manager
 
 from .process import StockProcess, RF_Process
+from .stock import Stock
 
 
 class StockCrawler:
-    def __init__(self, symbol_list, concurrent=5):
+    def __init__(self, symbol_list, concurrent=5, auto_save=False, auto_sleep=None):
         self.concur = concurrent
         self.symbol_list = symbol_list
         self.data = []
+        self.auto_save = auto_save
+        if auto_sleep == True:
+            self.auto_sleep = 10 * 60
+        else:
+            self.auto_sleep = auto_sleep
 
     def __iter__(self):
         return iter(self.data)
@@ -42,20 +48,23 @@ class StockCrawler:
                 will_sleep = False
                 while not que.empty():
                     res = que.get()
-                    if not res:
+                    if (not res) and self.auto_sleep:
                         will_sleep = True
-                    # This statement cannot be simplified !!!
-                    elif res != True:
+                    elif type(res) == Stock:
                         self.data.append(res)
+                        if self.auto_save:
+                            res.save()
                 if will_sleep:
                     print(str(datetime.datetime.now()) + ' Start Sleeping...')
-                    time.sleep(10 * 60)
+                    print('Restart after {} seconds...'.format(self.auto_sleep))
+                    time.sleep(self.auto_sleep)
                     print('===' * 20)
                     print(str(datetime.datetime.now()) + ' Finish Sleeping...')
 
     def save_all(self):
         for item in self.data:
             item.save()
+
 
 class RF_Crawler:
     def __init__(self, db_config, server_config, concurrent=5):
