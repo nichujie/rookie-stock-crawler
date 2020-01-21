@@ -1,6 +1,7 @@
 from multiprocessing import Process
 from .stock import Stock
 from .extensions import RF_Stock
+from .utils import get_t_str
 import datetime
 
 
@@ -11,10 +12,10 @@ class StockProcess(Process):
         self.que = que
 
     def run(self):
-        print(str(datetime.datetime.now()) + ' Start {}...'.format(self._stock.symbol))
+        print(get_t_str() + ' Start {}...'.format(self._stock.symbol))
         result = self._stock.retrieve()
         self.que.put(result)
-        print(str(datetime.datetime.now()) + ' Finish {}...'.format(self._stock.symbol))
+        print(get_t_str() + ' Finish {}...'.format(self._stock.symbol))
 
 
 class RF_Process(Process):
@@ -24,7 +25,7 @@ class RF_Process(Process):
         self.que = que
 
     def run(self):
-        print(str(datetime.datetime.now()) + ' Start {}...'.format(self._stock.symbol))
+        print(get_t_str() + ' Start {}...'.format(self._stock.symbol))
         result = self._stock.start()
         if not result:
             self.que.put(self._stock.symbol)

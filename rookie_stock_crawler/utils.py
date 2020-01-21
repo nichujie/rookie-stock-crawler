@@ -6,6 +6,10 @@ import requests
 from bs4 import BeautifulSoup
 
 
+def get_t_str():
+    return str(datetime.datetime.now().strftime('[%Y-%m-%d %H:%M:%S]'))
+
+
 def get_duration(months):
     now = datetime.datetime.now()
     year = now.year

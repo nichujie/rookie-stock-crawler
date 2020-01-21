@@ -9,6 +9,7 @@ from multiprocessing import Manager
 
 from .process import StockProcess, RF_Process
 from .stock import Stock
+from .utils import get_t_str
 
 
 class StockCrawler:
@@ -55,11 +56,11 @@ class StockCrawler:
                         if self.auto_save:
                             res.save()
                 if will_sleep:
-                    print(str(datetime.datetime.now()) + ' Start Sleeping...')
+                    print(get_t_str() + ' Start Sleeping...')
                     print('Restart after {} seconds...'.format(self.auto_sleep))
                     time.sleep(self.auto_sleep)
                     print('===' * 20)
-                    print(str(datetime.datetime.now()) + ' Finish Sleeping...')
+                    print(get_t_str() + ' Finish Sleeping...')
 
     def save_all(self):
         for item in self.data:
@@ -103,6 +104,5 @@ class RF_Crawler:
         if not que.empty():
             while not que.empty():
                 que.get()
-            print(datetime.datetime.now())
-            print('404 sleeping...')
+            print(get_t_str() + '404 sleeping...')
             time.sleep(10 * 60)
