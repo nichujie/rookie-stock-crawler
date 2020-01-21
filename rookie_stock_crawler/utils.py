@@ -71,7 +71,7 @@ def validate_stock(stock):
         return result
 
     title = soup.title.get_text()
-    if not title.startswith(stock):
+    if title.find(stock) == -1:
         result['status'] = 'not_exist'
         return result
 
