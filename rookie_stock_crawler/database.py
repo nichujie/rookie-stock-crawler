@@ -37,11 +37,22 @@ class RF_Database:
         self._conn.commit()
 
     def update_financial(self, data):
-        self._cur.execute('SELECT * FROM public.stock_financial WHERE name=%s;', (self._symbol,))
+        self._cur.execute('SELECT data FROM public.stock_financial WHERE name=%s;', (self._symbol,))
         if self._cur.rowcount > 0:
+            financial = self._cur.fetchone()[0]
+            financial = sorted(financial, key=lambda x: x['date'], reverse=False)
+            for new in data:
+                index = -1
+                for i in range(len(financial)):
+                    if financial[i]['date'] == new['date']:
+                        financial[i] = new
+                        index = i
+                if index == -1:
+                    financial.append(new)
+            financial = sorted(financial, key=lambda x: x['date'], reverse=False)
             self._cur.execute(
-                '''UPDATE public.stock_financial SET data = data || %s::jsonb[], update_time = %s WHERE name=%s''',
-                (data, datetime.now(), self._symbol,))
+                '''UPDATE public.stock_financial SET data = %s::jsonb[], update_time = %s WHERE name=%s''',
+                (financial, datetime.now(), self._symbol,))
         else:
             self._cur.execute(
                 "INSERT INTO public.stock_financial (name, data, update_time) VALUES (%s, %s::jsonb[], %s)",
